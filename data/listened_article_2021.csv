@@ -1,0 +1,2041 @@
+# ----------------------------------------
+# Events
+# Account: Default Account for Firebase
+# Property: newslymeapp
+# ----------------------------------------
+#  
+# Start date: 20210101
+# End date: 20210504
+Nth week,Event count
+0001,209
+0002,222
+0003,430
+0004,342
+0005,237
+0006,334
+0007,159
+0008,192
+0009,160
+0010,169
+0011,202
+0012,166
+0013,136
+0014,98
+0015,99
+0016,83
+0017,89
+0018,44
+
+# Start date: 20210101
+# End date: 20210504
+Nth week,Total users
+0001,15
+0002,28
+0003,82
+0004,46
+0005,25
+0006,28
+0007,15
+0008,20
+0009,13
+0010,17
+0011,38
+0012,23
+0013,20
+0014,14
+0015,12
+0016,11
+0017,18
+0018,10
+
+# Start date: 20210101
+# End date: 20210504
+Nth week,Event count per user
+0001,13.933333333333334
+0002,11.1
+0003,5.308641975308642
+0004,7.7727272727272725
+0005,10.304347826086957
+0006,12.846153846153847
+0007,12.23076923076923
+0008,11.294117647058824
+0009,12.307692307692308
+0010,12.071428571428571
+0011,5.611111111111111
+0012,8.736842105263158
+0013,8
+0014,9.8
+0015,9.9
+0016,8.3
+0017,6.357142857142857
+0018,4.4
+
+# Start date: 20210101
+# End date: 20210504
+Nth week,Event value
+
+
+#  
+
+
+#  
+# Start date: 20210101
+# End date: 20210504
+Country ID,Event count
+AU,1
+CA,2825
+CL,2
+CN,2
+GB,12
+IL,146
+IN,268
+KR,5
+TR,3
+US,106
+ZW,1
+
+# Start date: 20210101
+# End date: 20210504
+Country,Event count
+Canada,2825
+India,268
+Israel,146
+United States,106
+United Kingdom,12
+South Korea,5
+Turkey,3
+Chile,2
+China,2
+Australia,1
+Zimbabwe,1
+
+#  
+# Start date: 20210101
+# End date: 20210504
+Gender,Event count
+
+
+#  
+# Start date: 20210101
+# End date: 20210504
+Day,Event count / Sessions
+0000,0
+0001,0
+0002,0
+0003,1
+0004,1
+0005,2
+0006,2
+0007,2
+0008,1
+0009,1
+0010,1
+0011,0
+0012,1
+0013,1
+0014,0
+0015,1
+0016,1
+0017,1
+0018,1
+0019,1
+0020,1
+0021,1
+0022,1
+0023,1
+0024,1
+0025,1
+0026,1
+0027,1
+0028,1
+0029,2
+0030,1
+0031,0
+0032,0
+0033,1
+0034,1
+0035,1
+0036,1
+0037,1
+0038,2
+0039,1
+0040,3
+0041,1
+0042,0
+0043,1
+0044,1
+0045,1
+0046,1
+0047,1
+0048,1
+0049,1
+0050,1
+0051,1
+0052,1
+0053,1
+0054,1
+0055,0
+0056,1
+0057,2
+0058,1
+0059,1
+0060,0
+0061,0
+0062,1
+0063,1
+0064,1
+0065,1
+0066,1
+0067,0
+0068,1
+0069,1
+0070,1
+0071,1
+0072,1
+0073,0
+0074,1
+0075,1
+0076,1
+0077,1
+0078,1
+0079,1
+0080,0
+0081,1
+0082,1
+0083,1
+0084,1
+0085,1
+0086,1
+0087,1
+0088,0
+0089,1
+0090,1
+0091,1
+0092,1
+0093,0
+0094,1
+0095,1
+0096,1
+0097,0
+0098,1
+0099,1
+0100,0
+0101,1
+0102,1
+0103,0
+0104,1
+0105,0
+0106,1
+0107,1
+0108,1
+0109,0
+0110,1
+0111,1
+0112,1
+0113,0
+0114,0
+0115,1
+0116,1
+0117,0
+0118,1
+0119,1
+0120,0
+0121,1
+0122,1
+0123,0
+
+# item
+# Start date: 20210101
+# End date: 20210504
+Custom parameter,Event count,Total users
+(not set),292,100
+Elon Musk is donating a $100 million prize for carbon capture technology — here's what that means,13,4
+Ashley Biden rocked a tuxedo on inauguration night — and it was everything,12,10
+Longtime home run king Hank Aaron dies at 86,11,7
+Kamala Harris: The Vice President,10,10
+"President Biden takes office, moving quickly to implement agenda",10,9
+The 737 Max crisis costs continues to climb two years after the second fatal crash,10,1
+TVLine,9,5
+Bethenny Frankel engaged to Paul Bernon after finalizing divorce from ex-husband Jason Hoppy,8,5
+"Ewing, Hoyas take Big East, NCAA bid in blowout",8,1
+"How Reddit made AMC, GameStop stock go wild: An 'insane''Ponzi scheme'",7,2
+Jennifer Lopez and Alex Rodriguez Announce They're Not Breaking Up,7,4
+Read the full text of Amanda Gorman's inaugural poem 'The Hill We Climb',7,5
+Rolling Stone,7,3
+"Stefon Diggs stands on sideline long after Bills loss, watching Chiefs' trophy celebration",7,6
+US administers 243.5 mln doses of COVID-19 vaccines – CDC,7,1
+'Godzilla vs. Kong' could be the biggest hit of the pandemic,6,2
+Billie Eilish's green hair party is over,6,2
+Gamestop (GME) Stock Price and Forecast: Roaring Kitty rounds up the troops,6,3
+"IBM, Intel stock selloffs slash more than 100 points off the Dow",6,4
+"JNJ Drops, GameStop Keeps Flying as Vaccine News Hits the Dow",6,1
+Jensen Karp didn't plan for the shrimp tails in his Cinnamon Toast Crunch to go viral,6,2
+Opinion | 'Bad Trip' is a hilarious look at how empathetic Americans are to absurdity,6,1
+Opinion: St. Patrick’s Day parade is the best Pittsburgh tradition!,6,3
+Suns guard Chris Paul comes up just short in NBA Skills Competition,6,2
+"The Snyder Cut was a gamble for Warner Bros., but it may not have a big payoff for HBO Max",6,2
+Virginia’s New Suburbia | Bacon's Rebellion,6,1
+Zion Williamson produces most efficient 30-point game in Pelicans franchise history | NBA.com,6,3
+'Deadpool 3' is happening,5,3
+'The Code Breaker': Jennifer Doudna and how CRISPR may revolutionize mankind,5,3
+10 things you might not know about George Harrison,5,3
+Chapter 1: The Lifestyle,5,2
+Chapter 6: Burden of Proof,5,4
+China Fines Alibaba $2.8 Billion For Breaking Anti-Monopoly Law,5,2
+Dua Lipa's Completely See-Through Butterfly Dress Was an Ode to Grammy-Winning Pop Icons,5,1
+FBI investigating Pennsylvania woman who allegedly stole Pelosi's laptop for ties to Russia,5,2
+Facebook stock surges as Mark Zuckerberg downplays Apple privacy clampdown,5,2
+Is ‘Grey’s Anatomy’ ending?,5,3
+Jason Segel is a rock of selflessness in the sugarcoated cancer drama Our Friend,5,4
+PlayStation Network was down around the globe for more than an hour,5,3
+Revealed: How much Chelsea will receive for joining European Super League,5,1
+"Rush Limbaugh, conservative radio titan, has died of lung cancer at age 70",5,4
+South Park’s Cartman weaponises social distancing in vaccination special - how to watch,5,2
+"Stock market news live updates: Stocks trade mixed, Treasury yields extend gains",5,2
+Tesla stock rises after Wedbush price target increase,5,2
+Texas Tech men's basketball coach Chris Beard ejected following epic tirade,5,3
+"Tiger Woods Badly Injured In Car Crash, Seen Speeding from Hotel Minutes Before Accident",5,3
+Travis Kelce Wins NFL's Charity Challenge With #WPMOYChallenge Fan Vote,5,3
+Trust Index: Was Antifa involved in attack on the Capitol?,5,3
+"US STOCKS-Dow at record high, stocks gain as inflation fears recede",5,1
+What happened to Carl Radke's brother on 'Summer House'? Here's all you need to know,5,2
+Will Air Canada (TSX:AC) Stock Sink or Double in 2021?,5,2
+'Arrested Development' Actress Jessica Walter Dead at 80,4,3
+Amazon.com Inc. stock outperforms competitors despite losses on the day,4,2
+"Android apps are crashing for some, but Google is working on a fix",4,3
+"Antron Pippen, oldest son of Scottie Pippen, dies at 33",4,1
+Apple's stock rallies toward another record after Wedbush analysts boosts target to Street high,4,3
+"Cannabis Stocks: Why TLRY, CGC, APHA, ACB and SNDL Are Climbing Today",4,3
+"Chipotle giving away $100,000 in free burritos and $100,000 in Bitcoin today",4,2
+Cristiano Ronaldo and Neymar celebrate joint birthday in full Covid-19 pandemic,4,2
+Deftones release free White Pony x Black Stallion online Pac-Man game —,4,2
+"Dr. Anthony Fauci says he feels liberated to speak freely about science, risk of Covid under Biden",4,4
+ESPN's Kendrick Perkins 'furious' over Devin Booker All-Star snub,4,4
+Ethereum hits a new all-time high as CME futures go live: Why is ETH price rallying?,4,2
+Evan Rachel Wood and Others Make Allegations of Abuse Against Marilyn Manson,4,2
+"Intel CEO Bob Swan to step down, VMware CEO Pat Gelsinger to replace him",4,3
+"January 13, 2021 House impeachment vote news",4,2
+Jose Canseco Fighting Barstool Sports So We Don't Have To,4,2
+LB Kyle Van Noy heading back to Patriots,4,3
+"Larry King, CNN talk-show legend, dies at 87 after being hospitalized with COVID-19",4,3
+"Live Updates: Prince Philip, the Queen's husband, dies",4,2
+Machine Gun Kelly Talks Directing His First Movie ‘Downfalls High’,4,1
+Married police chief exposed on city's Facebook for having two mistresses,4,2
+"Mary Wilson, Co-Founder of the Supremes, Dies at 76",4,3
+"Mary Wilson, Supremes changed how America viewed Black music - Los Angeles Times",4,3
+"NCAA Tournament 2021: Buy or Sell Arkansas, Texas, Kansas, and West Virginia?",4,2
+"NFL Free Agency 2021: Patriots agree to terms with Matt Judon on four-year, $56 million deal",4,2
+Neuralink President Max Hodak Announces He Has Left the Company,4,1
+News 4 Buffalo,4,4
+Phoebe Waller-Bridge and Donald Glover to star in Amazon’s Mr. and Mrs. Smith series,4,1
+Prem chief leaves to become Arsenal director,4,1
+QAnon believers are in disarray after Biden is inaugurated,4,4
+"Religious festival stampede in Israel kills 45, hurts dozens",4,1
+"Robinhood blocks purchases of GameStop, AMC, and others after days of Reddit-fueled rallies",4,2
+"Sheldon Adelson, Republican kingmaker and casino magnate, has died at 87",4,3
+Sources: Celtics get Magic's Fournier for picks,4,3
+"TV Ratings: Grammy Awards Hit Record Low, Down Nearly 53% Compared to 2020’s Show",4,2
+Tesla Trades Lower After Earnings: Here's A Technical Look At The Chart,4,3
+The transformation of Anya Taylor-Joy is turning heads,4,2
+"Trump's 11th-hour pardons keep with tradition, even if those pardoned do not",4,3
+Updated: Power restored for majority of BC Hydro customers hit with morning outages,4,3
+"WATCH: Amanda Gorman reads inauguration poem, 'The Hill We Climb'",4,3
+WWD,4,2
+"Watching the Skies: Moon moves by Jupiter, Saturn",4,2
+Why Mitch McConnell relented on a Senate filibuster stand-off,4,3
+Why is Nick Saban smiling? The answer goes beyond him leading Bama to another title,4,4
+‘The Kane Show’ host Peter Deibler dies at 43,4,2
+"'All American' showrunner previews COVID-free season 3, incorporating Black Lives Matter",3,3
+'Bridgerton' Surprise: Breakout Rege-Jean Page Not Returning for Season 2,3,1
+'Kid 90' Tells Story of Nineties Child Stars Through Soleil Moon Frye's Home Movies,3,2
+"'SNL': Pete Davidson, Jack Harlow Deliver Eminem-Inspired Rap Explaining NFTs",3,2
+2021 Golden Globes: The Biggest Surprises and Snubs,3,2
+37 - עמית הרשקוביץ,3,1
+"7 Revelations From Priyanka Chopra’s Memoir: Depression, Nick Jonas, More",3,2
+AMC Entertainment Stock Turbocharged Thanks to Reddit Hypesters,3,2
+Actress Milana Vayntrub responds to online body shaming,3,2
+Amazon: 'To Split Or Not To Split: That Is The Question' Says 'PreMarket Prep' Co-Host,3,1
+Anne Hathaway Hates Being Called 'Anne': Here's Why,3,2
+Apple introduces AirTag,3,3
+Apple says it will send a witness to Senate hearing on app stores after all,3,1
+At least 9 dead in crashes across Dallas-Fort Worth area due to winter storms,3,2
+Bell Let's Talk: How to join the conversation and help raise funds,3,3
+Ben Affleck and Ana de Armas Have Reportedly Split Up,3,2
+Bernie Sanders says he ‘was just sitting there trying to keep warm’ in viral Inauguration Day photo,3,2
+Beyond Meat strikes partnerships with McDonald's and Yum Brands,3,2
+Biden revokes presidential permit for Keystone XL pipeline expansion on 1st day,3,2
+Bob Saget Talks Lori Loughlin's Prison Stint: Others Should Be 'Doing Time',3,3
+"Boba Shortage Could Stretch Into Summer, Leave Businesses In A Bind",3,2
+Boxing great Marvelous Marvin Hagler dies at 66,3,1
+Britney Spears' Boyfriend Speaks Out Against Singer's Father: 'Jamie Is a Total Dick',3,2
+Browns all in on Baker Mayfield as franchise quarterback,3,1
+Carrie Underwood's faith shines through on church hymns,3,2
+Chargers Agree to Terms with Brandon Staley as Head Coach,3,2
+Check Out Dan Levy's Note He Left for Next 'SNL' Host Regina King,3,1
+Cicely Tyson Opened Up About Her Relationship with Her Daughter in Her Memoir: ‘My Beloved Princess’,3,2
+"Coca-Cola Zero Sugar will be the company's biggest source of growth in 2021, CEO says",3,2
+"Coinbase plans to go public through a direct listing, following Spotify, Slack and Palantir",3,2
+Collin Sexton scores 20 points in a row for Cavaliers,3,3
+"Corey Conners loves the 16th hole at Bay Hill, leads Arnold Palmer Invitational",3,2
+"Critical Race Theory in Wake County, NC Schools",3,2
+Cuttlefish can pass the marshmallow test,3,1
+"Dave Chappelle Tests Positive For COVID-19, Cancels Texas Shows",3,3
+"Dianne Durham, first Black US women's gymnastics champion from Gary, dies at age 52",3,1
+Did Coca-Cola Add 'Try To Be Less White' to Cans?,3,2
+Do you recognize them? Lady Gaga hangs with Adam Driver in snowy 'House of Gucci' first look,3,2
+Dollar Bills: Buffalo fans donate to Lamar charity,3,3
+Doug Ford to make announcement about Ontario lockdown measures tomorrow,3,1
+Déjà vu for Lakers as they run past OKC in OT -- again,3,1
+Elon Musk donates $5 million to education group Khan Academy,3,2
+Emma Roberts gushes over newborn with boyfriend Garrett Hedlund in first photo: 'Our bright light',3,2
+"Every Super Bowl Halftime Show Since 1993, Ranked",3,3
+FINAL: Spurs beat Curry's Warriors 105-100 behind huge game from Dejounte Murray,3,3
+FKA Twigs Details Alleged Shia LaBeouf Abuse 'Nightmare',3,2
+"Ford unveils new version of highly profitable F-150 Raptor performance pickup, plans V-8 model",3,2
+"Former Bob Marley Guitarist Donald Kinsey, 'Bob Loved Blues Music'",3,1
+Former Steelers QB Kordell Stewart opens up in penning Players’ Tribune piece,3,1
+"Former UN ambassador Nikki Haley breaks from Donald Trump, says 'he let us down'",3,2
+GameStop Pops 51% After Citron Short Seller Debacle; Street Says Hold,3,2
+"GameStop shares are jumping again, but short sellers aren't backing down",3,3
+"GameStop stock just jumped 100 percent, and WallStreetBets is ecstatic",3,2
+GoFundMe for girl injured in crash with Chiefs coach Britt Reid raises over $300K,3,3
+"Gonzaga routs Creighton, now three wins away from undefeated season",3,2
+Google Maps Will Let You Draw Missing Roads,3,1
+Google fires second AI ethics researcher following internal investigation,3,2
+Google is removing its Play Movies and TV app from every Roku and most smart TVs,3,2
+Google undercuts Apple with new 15% revenue share for Play apps,3,2
+"Google's Black History Month Doodle celebrates poet, activist Audre Lorde",3,2
+"Grammys 2021: Early prizes go to Beyoncé, Lady Gaga and Billie Eilish",3,2
+Halsey's Pregnant! Everything to Know About Her Screenwriter Boyfriend Alev Aydin,3,2
+Hayden Christensen returning as Anakin Skywalker in star-studded ‘Obi-Wan Kenobi’ series on Disney+,3,2
+Here's a schedule of Inauguration Day events and how to watch,3,3
+Here's our full coverage of the historic 2021 Grammys,3,3
+"How to watch UEFA Champions League semifinals: Live stream, how to watch, odds, schedule",3,3
+IBM earnings reveal two major challenges that won't be easily fixed,3,2
+IU finance professor dies Saturday of heart attack,3,1
+JPMorgan Chase and Wells Fargo face customer anger over stimulus checks,3,3
+"Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3",3,3
+JoJo Siwa comes out as gay after viral ‘Born This Way’ TikTok,3,2
+Joe Biden honors late son Beau during emotional speech 1 day before inauguration,3,2
+Jonathan Scott Celebrates Zooey Deschanel's Birthday With Heartfelt Message,3,2
+KC Chiefs future is bright despite Super Bowl smackdown by Buccaneers,3,3
+Kate Mulgrew Talks Progress On ‘Star Trek: Prodigy’; Says It’s “Very Sophisticated” [UPDATED],3,2
+Kerry Kennedy slept in locked bathroom to avoid Andrew Cuomo’s abuse: biographer,3,1
+LIVE: Ontario schools moving to online-only following April break,3,2
+Lady Gaga At The Inauguration Memes,3,2
+"Lloyd Austin Confirmed As Secretary of Defense, Becomes First Black Pentagon Chief",3,3
+McConnell votes to acquit Trump in second impeachment trial,3,1
+"Metro Detroit weather: Forecasting snowfall amounts, timing for upcoming winter storm",3,2
+"Mic'd up Steelers QB Ben Roethlisberger to C Maurkice Pouncey: 'I'm sorry, brother'",3,2
+Michigan basketball draws comparisons to Michigan football after ugly loss to Illinois,3,1
+Motive unknown after 8 killed at Indianapolis FedEx facility,3,2
+Nancy Pelosi has plowed up to $1 million into bullish bets on Tesla stock,3,2
+Nets' Kevin Durant removed midgame under NBA safety protocol; star blasts league's 'wack' statement,3,1
+New York Times Defends Reporter Taylor Lorenz From Tucker Carlson’s ‘Cruel’ Attack,3,2
+Newly discovered fragments of Dead Sea Scrolls reveal hidden ancient Bible texts,3,2
+North Korean Defectors Want Biden to Be Forceful with Kim Jong Un,3,2
+"Olympic Gold Medalist Klete Keller in US Capitol During Clashes, Video Shows",3,1
+On 49ers' Robert Saleh: 'I don't know what's wrong with people if they don't hire him',3,2
+"Ontario begins phased reopening Wednesday, majority of regions to remain in lockdown",3,3
+Oscars 2021: The Complete Winners List,3,3
+"Otter.ai Adds Google Meet Support, Looks to the Future",3,2
+President Joe Biden and First Lady Jill Biden Thank Health Care Workers Ahead of Super Bowl LV,3,1
+"Prince Philip, husband of U.K.'s Queen Elizabeth II, admitted to hospital",3,2
+READ: Joe Biden and Kamala Harris' public schedule on Inauguration Day,3,3
+Raya and the Last Dragon looks like a fantastical Ocean’s Eleven in the latest trailer,3,2
+Red Sox send Benintendi to K.C. in 3-team deal,3,2
+Regina King’s Dog Snoozed Behind Her While She Posed On Globes’ Virtual Red Carpet,3,1
+Renaissance-era letter sealed for centuries just virtually unfolded and read for the first time,3,1
+Rep. Kinzinger: They claim 'I'm possessed by the devil',3,1
+"Report: Bol Bol, Lauri Markannen offered in packages for Lonzo Ball",3,1
+Review of Gov. Gen. Julie Payette’s treatment of staff paints ‘scathing’ picture: sources,3,3
+Ringless LeBron James' 9-Year-Old Birthday Tweet To Michael Jordan,3,1
+"Robinhood restricts trading in stock and options of GameStop, other names involved in frenzy",3,1
+Ryan Newman back in the Daytona 500 one year after horrific crash,3,1
+Sabrina Carpenter Addresses Olivia Rodrigo Drama on New Song 'Skin': 'Don't Drive Yourself Insane',3,3
+Samsung beating Google Pixels at the Android update game,3,1
+Senate Declares That Trump's Impeachment Trial Is Constitutional,3,2
+Should You Buy First Majestic Silver Corp. (AG) Stock Thursday?,3,2
+Sources: Eagles hiring Sirianni as head coach,3,2
+SpaceX adds laser crosslinks to polar Starlink satellites - SpaceNews,3,2
+"SpaceX plans Starlink phone service, emergency backup, and low-income access",3,3
+T-Mobile saw Verizon telling people to turn off 5G and thought ‘why stop there’,3,1
+"Ted Thompson, former Packers general manager, dies at 68",3,3
+The #SilhouetteChallenge Is for the Streets and the Sheets,3,2
+The Best Dressed Celebs at the 2021 Golden Globes,3,2
+The CDC just warned of 3 new coronavirus vaccine side effects,3,2
+The Weeknd -- Good Genes Or Good Docs?!,3,3
+Tiffany Trump announces engagement to Michael Boulos one day before Biden inauguration,3,2
+Tom Brady's GOAT status captures world's imagination,3,2
+"Tottenham Hotspur vs. Chelsea, Premier League: Live blog; highlights",3,2
+Trayvon Martin remembered on what would have been his 26th birthday,3,2
+Twitter says Rep. Marjorie Taylor Greene suspended ‘in error’; Dems push to expel her from Congress,3,2
+UNC's Garrison Brooks Not Expected to Play in Notre Dame Game,3,2
+Venus Williams shows us yet again why she is still tennis' greatest competitor,3,3
+WATCH: Jon Bon Jovi sings Beatles classic for ‘Celebrating America’ inauguration special,3,2
+Watch Scal school a high schooler who challenged him in 1-on-1,3,2
+"Woman, child dead from carbon monoxide poisoning after trying to stay warm in Texas",3,1
+World Cancer Day 2021: The Latest Cancer News and Updates,3,2
+Xbox Live is down with a major outage – here's what isn't working,3,2
+You'll Never Be Able to Watch Friends Again Without Noticing Jennifer Aniston's Vocal Habit,3,2
+Zoom sees revenues soar 326% year-over-year as office life remains on hold,3,2
+"‘Oprah With Meghan and Harry: A CBS Primetime Special’ | How to watch, live stream, TV channel, time",3,1
+‘SNL’: John Krasinski Can’t Escape ‘The Office’s Jim & Pam In Opening Monologue,3,3
+#MacMiller: Fans Remember Mac Miller On What Would Have Been Is 29th Birthday,2,2
+$1 billion Mega Millions jackpot has a winner,2,2
+"$200,000 streaming rigs and millions of views: inside the cottage industry popping up around SpaceX",2,1
+'Framing Britney': Twitter goes in on the toxic treatment of Britney Spears in buzzy documentary,2,2
+'Godzilla vs. Kong' tops the pandemic box office with $32.2 million in domestic opening weekend,2,1
+'Messed up': Rafa Nadal gaffe exposes shock Australian Open news,2,2
+"'Saved by the Bell' actor lived, loved and died in Cape Coral",2,1
+10 Things You May Not Know About Lady Gaga,2,1
+1000-Lb. Sisters’ Tammy Slaton Comes Out as Pansexual: ‘Love Is Love’,2,1
+"2021 Golden Globe Awards: A mess of screw-ups, some good jokes and a few emotional speeches (review)",2,2
+"2021 NBA All-Star Game snubs: Bam Adebayo, Mike Conley, Trae Young not named as reserves",2,1
+8 Things You Didn't Know About Supreme Court Justice Sonia Sotomayor,2,1
+A sure sign of an overheated stock market – people are trading from the bathroom,2,1
+AMD’s Epyc Milan offers double Intel Xeon’s datacenter performance,2,2
+"Ace, bunker hole-out, massive putts all part of Jordan Spieth's third round",2,1
+"Alberta premier, chief medical officer to update province on COVID-19 pandemic | News",2,1
+"All 85 Prince singles, ranked 4 u from worst 2 best",2,2
+"Amazon illegally fired two employees who pushed for climate, labor action",2,1
+Amazon stock chart showing ‘breakout’ rally ahead of earnings,2,1
+Amazon's 'Lord of the Rings' series will cost at least $465 million for first season,2,1
+Analysis: Bumpy road ahead for Biden's infrastructure plan,2,1
+Andre Drummond leaves Lakers debut with toe injury,2,1
+Andrew Yang Enters Mayor's Race With Scaled Back Plan For Universal Basic Income,2,2
+Angelina Jolie claims she has 'proof' of Brad Pitt's alleged domestic violence in court,2,2
+Apple celebrates Black History Month,2,1
+"April Fool’s Day pranks jokes for friends, family members, colleagues",2,1
+Asia Argento accuses ‘Fast and the Furious’ director Rob Cohen of sexual assault,2,2
+Author Beverly Cleary dies at 104,2,1
+"Azealia Banks moves to Miami amid scary dead cat posts, foreclosure",2,2
+B.C. to detail new COVID-19 travel restrictions within province,2,2
+BBB21 já começou: Quem deve ser imunizado no jogo? Vote na enquete,2,1
+BC Ferries cancels sailings due to high winds,2,1
+BREAKING NEWS: DMX In Vegetative State; Fighting For His Life In ICU,2,2
+"Back in stock (for now): Walmart, GameStop restocks of Xbox and PS5",2,2
+Back spasms knock out Clippers' Kawhi Leonard for Boston game,2,1
+"Barack, Bill and Dubya: How Democrats came to embrace George W Bush",2,1
+"Bed Bath & Beyond, AMC rally with GameStop as little investors squeeze hedge funds in more stocks",2,2
+Bella Thorne Is Engaged to Benjamin Mascolo: 'She Said YES',2,1
+Ben Affleck and Ana de Armas Reportedly Broke Up Over the Phone—Here's Everything We Know,2,1
+Ben Folds and Bob Discuss How to Find the Best Work & Common Ground Through Music & Comedy,2,1
+"Bernie Madoff, infamous Ponzi schemer, dies in prison, sources say",2,1
+Beyoncé Remembers Late Fan Lyric Chanel With Tribute Medley,2,1
+"Biden Inauguration Day 2021: Time, TV schedule, channel, livestream",2,1
+Biden expected to nominate former senator Bill Nelson to be NASA administrator,2,2
+Biden keeps falling up the stairs as he boards Air Force One,2,1
+Biden picks transgender woman as assistant health secretary,2,2
+"Big Sur is still accessible despite Highway 1 damage, avoiding a repeat of 2017's isolation",2,1
+"Bill Walton says Alabama has 'athleticism,' UCLA from 'truckstop world' on College GameDay",2,2
+"Billy Brown, ‘Alaskan Bush People’ Star, Dies at 68",2,2
+Bird flu: Russia detects first case of H5N8 bird flu in humans,2,1
+Bitcoin Breaks Below $50K as Market Sell-Off Continues,2,2
+Bitcoin Tops $50K and Crypto's Nouveau Riche Move In - CoinDesk,2,1
+Bitcoin plummets as much as 15% just days after hitting record high,2,2
+Bitcoin tanks 10% after Elon Musk says prices seem high,2,2
+Bizarre ancient shark glided through the sea with lengthy wing-like fins,2,2
+"Black Rob, ‘Whoa!’ Rapper, Is Dead at 51",2,1
+Black Twitter calls out Steve Harvey for non-stop storytelling during Verzuz,2,2
+BlackBerry (TSX:BB) Stock: Time to Sell?,2,2
+"Blake Griffin makes debut with Nets, throws down first dunk since 2019",2,1
+Blaze Pizza celebrates Pi Day,2,1
+Bluescape Announces Addition to Zoom App Marketplace,2,2
+"Bobby Brown Jr. died of effects of alcohol, cocaine, fentanyl, autopsy says",2,2
+"Book festival cancels Harry Potter segment, citing J.K. Rowling’s comments on gender",2,2
+Boulder supermarket shooting: Officer among ‘multiple people’ killed; 1 suspect in custody,2,2
+Britney Spears to Speak in Court on Conservatorship Case,2,1
+Bruce Springsteen stars in hopeful Super Bowl Jeep ad,2,1
+Bruins vs. Caps 1/30/21 RECAP: Bruins can’t comeback in 3-4 OT Loss,2,1
+Bruno Mars Announces New Single and Collaborative Album with Anderson .Paak: 'We Locked In',2,2
+"Bueckers and UConn top Syracuse 83-47, advance to Sweet 16",2,1
+Bueckers' heroics lift UConn over South Carolina,2,2
+"CBS allegedly ignored internal complaints of racism, abuse - Los Angeles Times",2,2
+CBS’ ‘Silence of the Lambs’ Sequel ‘Clarice’ Will Make You Miss ‘Hannibal’,2,2
+CCIV Stock Price Increases Over 10% Pre-Market: Why It Happened,2,2
+California lifts regional stay-at-home orders as ICU crowding eases,2,1
+"Canadian Population Growth Hits Lowest On Record As Ontario, B.C. Shrink",2,2
+"Canadiens vs. Flames: Game thread, rosters, lines, and how to watch",2,1
+"Cannabis stocks soar as Reddit crowd that spiked GameStop jumps in, Tilray surges 25%",2,1
+Canucks claim Travis Boyd off waivers from Maple Leafs,2,1
+"Canucks must prove effort, intensity displayed vs. Maple Leafs is sustainable",2,2
+Cardi B fires back against conservative pundit Candace Owens' attacks on 'WAP',2,1
+Cardi B’s Hair Was Pastel Pink and Shorter Than Ever at the Grammys,2,2
+Celebrate National Pizza Day with these deals and freebies,2,1
+Chadwick Boseman's widow gives moving acceptance speech as actor wins Golden Globe,2,1
+Chapter 2: Sunday Funday,2,1
+Chapter 3: Arrogant Weasel,2,1
+Chapter 4: Samson,2,1
+Chapter 5: God With Two Ds,2,1
+Chapter 7: O.C. Justice,2,2
+"Chloe Bennet, Dove Cameron, and Yana Perrault are the CW's 'Powerpuff Girls'",2,1
+Chrissy Teigen Calls Out Media Attacks on Meghan Markle,2,2
+"Cicely Tyson, Who Brought Grace And Gravitas To The Screen, Has Died At 96",2,1
+Climate adviser Gina McCarthy on Biden's ambitious climate agenda,2,1
+Coinbase is here: A cryptocurrency exchange goes public,2,2
+Colorado Avalanche finally beat Golden Knights in epic outdoor game,2,1
+Cori Bush moves office after being 'berated' and 'targeted' by Marjorie Taylor Greene,2,2
+"Court Says Shamima Begum, Who Left U.K. To Join ISIS, Cannot Return",2,1
+Covid: Banksy to auction Southampton hospital artwork for NHS,2,2
+Crazy Video: Brown Bear Chases Skier Down Resort Mountain | GearJunkie,2,2
+"Cryptocurrency Price Check: Bitcoin to $60,000 and NFT Mania",2,1
+Czech billionaire Petr Kellner among five killed in helicopter crash in Alaska,2,2
+Daft Punk Break Up,2,1
+Delonte West takes job at Florida rehab center he attended in 2020,2,1
+"Desafiando al COVID, en España conmemoran el Día de la Mujer",2,2
+Detroit Lions land Heisman Trophy winner with No. 7 pick in Todd McShay's latest mock draft,2,1
+Diabetics share mixed reactions to Dexcom's $5.5 million Super Bowl commercial - BUnow - Bloomsburg,2,1
+Digital Underground rapper Shock G passes away,2,1
+Disney inks a huge Sony deal to bring Spider-Man and other films to Disney Plus and Hulu,2,1
+"Dolly Parton gets Covid-19 vaccination, jokes she got a 'dose of her own medicine'",2,2
+"Don't Call What Seth Rogen and Ted Cruz Are Doing on Twitter a Feud, Says Seth Rogen",2,2
+Donald Trump commutes sentence of former Detroit Mayor Kwame Kilpatrick,2,1
+Douglas Emhoff: Second Gentleman,2,2
+Dow ends lower as Fed decision on bank capital sinks financial stocks,2,1
+Dr. Jill Biden: First Lady,2,2
+ESPN baseball reporter Pedro Gomez dies at 58,2,2
+"Elizabeth Hurley, 55, embarks on a ‘pretend vacation’ in a green string bikini",2,2
+Eminem Shrugs Off Attempts to Cancel Him by Releasing 'Tone Deaf' Animated Video: Watch,2,1
+Emma Stone Gives Birth to Her First Child,2,1
+"Emotions of once-perfect season come crashing down on Jalen Suggs, Gonzaga",2,1
+Epic Godzilla Vs. Kong Image Shows How Much King Kong Has Grown,2,1
+Etsy Stock Jumps on Praise from Elon Musk After He Buys a Gift For His Dog,2,2
+Evander Kane files for bankruptcy with $26.8 million of debt,2,1
+Exotic Bird had a surprising 'American Idol' reunion with Paula Abdul on 'The Masked Dancer',2,2
+FC Barcelona and Real Madrid will be forced to pay back illegal state aid,2,2
+FIFA Club World Cup 2020 - News - Gignac at the double as Tigres edge Ulsan - FIFA.com,2,2
+Facebook Earnings: What Happened,2,1
+Fauci touts vaccinations: 'This is not going to last forever',2,2
+Fauci: April should be 'open season' for vaccinations | TheHill,2,1
+Fed Chair Jerome Powell Warns Of Long Road Ahead To Recover Millions Of Lost Jobs,2,1
+Final Picks for Goldberg vs. Drew McIntyre and WWE Royal Rumble 2021 Card,2,1
+Five Irish themed drinks you’ll be lucky to make on St. Patrick’s Day,2,2
+Flyers' Travis Konecny out Saturday vs. Islanders as healthy scratch,2,1
+Former Argonauts offensive lineman Chris Schultz dies at age 61 | Sports,2,2
+Found in space: Complex carbon-based molecules,2,2
+Gal Gadot Is Pregnant! Actress and Husband Jaron Varsano Expecting Their Third Child,2,2
+Game Grumps host Dan Avidan accused of grooming underage fans,2,1
+GameStop Investors Share Why They Went Big on the GME Stock Squeeze - IGN,2,2
+"GameStop, AMC gyrations hit Charles Schwab, TD Ameritrade with outages",2,2
+Gamestop (GME) Stock Price and Forecast: Don’t get gamed!,2,1
+Germany's ruling CDU set to elect new leader | DW | 15.01.2021,2,2
+Gigi Hadid’s baby daughter steals the show in new family photo,2,1
+Gillian Anderson Completes ‘The Crown’ Sweep At Golden Globes With Supporting Actress Win,2,1
+Google starts letting apps create custom Wear OS Tiles,2,2
+Google trying to put Microsoft on the spot at SolarWinds hearing,2,1
+Gov. Spencer Cox urges Utahns to not ‘make a fool of yourself’ when statewide mask mandate ends,2,1
+"Grand Canyon University basketball player dies in California car crash, friends say",2,1
+Great Canadian Gaming CEO resigns after being accused of sneaking into Yukon for vaccine,2,2
+Greenland is careening toward a critical tipping point for ice loss,2,1
+"Gregory Sierra, 'Sanford and Son' and 'Barney Miller' actor, dies at 83",2,2
+H-E-B delays openings at San Antonio-area stores on Tuesday due to wintry weather,2,1
+Happy Birthday! Dolly Parton celebrates 75th Birthday,2,2
+"Happy Valentine's Day 2021: Wishes, messages, images, love quotes, WhatsApp, Facebook, Instagram",2,1
+Happy ‘Pi’ Day! Weigh in on the best places in Central Texas to grab a slice of pie,2,1
+"Harris Will Leave Senate Seat Monday, Set To Return As Tiebreaking Vice President",2,2
+He Raps! Everything We Learned From Prince Harry’s James Corden Interview,2,1
+Hear Randy Rainbow's scathing new song about Trump's goodbye - Los Angeles Times,2,2
+Here's Everything New From the Fast & Furious 9 Super Bowl Trailer,2,1
+Here's why you aren't seeing any solid Trent Williams rumors,2,1
+"Houston Tumlin, child actor in 'Talladega Nights,' dies at 28",2,1
+How Lunar New Year became overly commercialized and what it means for Asian culture,2,1
+How To Stream MSNBC and NBC News' Coverage of Biden's Inauguration,2,2
+How to Buy Tilray (TLRY) Stock Right Now • Benzinga,2,1
+How to Watch Tom Hanks’ ‘Celebrating America’ Inauguration Special,2,2
+How to Watch the 2021 Winter X Games Live Stream,2,1
+How to check if you are part of massive Facebook breach,2,1
+How to make snow ice cream using ingredients in your kitchen,2,2
+How ‘The Flight Attendant’ Evolved the TV Addiction Drama,2,2
+"Indoor dining in the Bay Area may be risky even if you're vaccinated, health experts say",2,1
+It isn’t just GameStop: Here are some of the other heavily shorted stocks shooting higher,2,1
+"Italy's Mount Etna Erupts, Spewing Lava and Ash into the Sky",2,2
+"James Spann tells viewers his house damaged by Alabama tornado, texts wife and returns to air",2,1
+Jane Krakowski Responds to Rumored Romance With My Pillow's Mike Lindell With Some Rumors of Her Own,2,2
+Jason Derulo expecting first child with girlfriend Jena Frumes,2,1
+Jay-Z and Nipsey Hussle collaboration 'What It Feels Like' coming this week,2,2
+Jay-Z sells majority stake in Tidal music streaming service to Jack Dorsey's Square,2,1
+Jeep Wrangler 4xe to Arrive in Dealerships Late in 2020,2,1
+Jim Wong-Chu: Google doodle on Canadian poet who amplified Asian Canadian community | Arts,2,2
+Jimmy Butler Ruled Out For Wednesday's Game Vs. Nuggets Due To COVID-19 Protocols,2,1
+John Prine wins two Grammys - Brandy Carlile covers 'I Remember Everything' on broadcast,2,2
+Johnny Manziel almost scores TD on first play in new league,2,1
+"Just A Minute: If You Haven't Jumped on the Alabama Basketball Bandwagon Yet, Now's the Time",2,1
+"Juventus vs. SPAL LIVE STREAM (1/27/21): Watch Coppa Italia online | Time, USA TV, channel",2,1
+KTAB - BigCountryHomepage.com,2,2
+Kahun scores twice as Oilers complete comeback win over Canucks,2,2
+Katie Couric opens up about hosting ‘Jeopardy!’,2,1
+"Kelly Oubre Jr. lays another egg for Warriors, who have few alternatives and no margin for error",2,1
+Kevin Durant Reacts To James Harden's Debut In Brooklyn,2,2
+Kourtney Kardashian and Travis Barker Relax at Kris Jenner's Palm Springs Home,2,2
+Kylie Jenner Expands Her Rare Tom Ford-Era Gucci Collection,2,1
+LIVE: Dustin Pedroia discusses retirement,2,1
+Lady Gaga and Mike Pence's Inauguration Interaction Is Going Viral,2,2
+"Larry Flynt, 'Hustler' magazine founder, dies at 78",2,2
+Latest on Francisco Lindor Extension Talks with Mets,2,1
+Lawyer wants 'serious' charges against Britt Reid,2,1
+LeBron Takes Lillard As His First All-Star Reserve,2,1
+Leaked 2021 Apple iMac redesign is stunning (but a little predictable),2,1
+"Lee Macmillan, a popular van-life influencer, has died",2,1
+Lindsey Graham: Democrats Should Be Ashamed of Themselves for So Thoroughly Incriminating Trump,2,1
+Lions agree to terms with Brad Holmes on five-year deal as new GM,2,1
+Lions' Golladay heads to free agency sans tag,2,1
+"Lohri 2021 Date: History, importance & significance",2,1
+"Macaulay Culkin and Brenda Song welcome their first child together, Dakota",2,2
+Machine Gun Kelly Performs Emotional Song 'Lonely' During SNL Debut as Musical Guest,2,1
+"Mars madness! China, UAE to reach the Red Planet this week ahead of epic NASA rover landing",2,2
+Marvel Kicks Off Deadpool’s Nerdy Thirty Anniversary with Live Virtual Event,2,1
+Marvel Reveals First Gay Teen Captain America,2,2
+"Massive cargo ship turns sideways, blocking Suez Canal and creating shipping gridlock",2,1
+Matt James Admits What He Would Do Differently and More Post-Show Takeaways,2,2
+Matthew McConaughey is considering Texas governor run,2,1
+Maybe Justin Timberlake Wasn’t the Best Choice to Play an Angry Ex-Con in Palmer,2,2
+Meghan Markle tells Oprah Winfrey she contemplated suicide before Royal separation,2,2
+Meghan McCain apologizes for previously condoning anti-Asian rhetoric used by Donald Trump,2,2
+Members are quitting 'sad' Mar-a-Lago after Trump loses,2,2
+Mendy 8/10 in saving Madrid from embarrassing draw at 10-man Atalanta,2,1
+Mets set deadline for Trevor Bauer decision after making huge offer,2,1
+Mia Farrow addresses 'vicious rumors' about deaths of three children,2,1
+Michael Strahan Fixes Iconic Tooth Gap,2,1
+Michelle Obama's inauguration outfit lights up social media,2,2
+"Michigan basketball vs. Wisconsin Badgers: Time, TV channel, more info",2,1
+"Micron, QuantumScape and Hyzon Motors CEOs react to Biden's plans for infrastructure",2,1
+"Mitt Romney’s checks plan: up to $350 per month, per kid for parents",2,2
+"More than 300 million people will celebrate Nowruz (and you should, too)",2,2
+Mumford and Sons' Winston Marshall praises right-wing agitator Andy Ngo,2,2
+MyPillow CEO Mike Lindell says products were dropped from major retailers after voter fraud claims,2,2
+"NASA is about to land on Mars, and these Canadians are part of the mission",2,2
+"NASA's new Mars rover hits dusty red road, 1st trip 21 feet",2,1
+NBA Star Karl-Anthony Towns Tests Positive for COVID-19 Months After Losing His Mother to the Virus,2,1
+NBA investigating video of maskless Kyrie Irving,2,2
+NFL Fans React To Tony Romo's Performance On Sunday,2,1
+NFL's Chase Claypool In Bar Fight Caught on Video,2,1
+"NYC Weather: Blizzard Conditions, 18 Inches Of Snow Forecast",2,1
+Naomi Osaka thrashes Hsieh Su-wei to reach Australian Open semifinals,2,1
+National Puppy Day 2021: 5 paw-dorable puppy videos which will instantly put a smile on your face,2,2
+"Netflix's 'Bling Empire' Is So Wild, You Won't Believe These People Really Exist",2,1
+New Horizons Captures Goosebump-Inducing Image as It Approaches Milestone Distance From the Sun,2,1
+New York Man Dies 25 Minutes After Receiving COVID Vaccine,2,2
+New evidence presented to White House to support pardon of 'Tiger King' Joe Exotic,2,2
+Nicki Minaj's Father Robert Maraj Killed in Hit-and-Run Accident in Long Island,2,1
+Nintendo Direct presentation on Feb. 17 - Start time and details,2,2
+Nintendo reveals ‘Super Mario 3D World + Bowser’s Fury’ for big February,2,2
+"No. 9 Ohio State 89, No. 8 Iowa 85: Here's what we learned",2,2
+Nova Scotia announces tougher restrictions after 10 new COVID-19 cases,2,1
+OG Anunoby: Toronto Raptors forward displays scary potential in return from injury,2,2
+OILERS NOTES: Archibald's eyes light up with empty net,2,1
+Obituary: Rita Tanguay Sirois Giroux,2,1
+Odd stripes spotted by NASA satellite in Russia baffle scientist,2,2
+Oklahoma announcer Matt Rowan blames blood sugar levels for his decision to drop a racial slur,2,1
+Olivia Wilde’s Post About Harry Styles’ Grammy Win Is So Clever,2,1
+On the Rocks? Clare and Dale Are 'Working Through' Some 'Serious Issues',2,1
+On this day JFK was inaugurated as President of the USA,2,2
+"One Major Side Effect of Staring at Your Phone Too Much, Says New Study",2,1
+Ontario Premier Doug Ford to announce plan to gradually reopen province's economy,2,1
+Opinion | I wanted Snyder's 'Justice League' to be a masterpiece. Instead it’s a mess.,2,1
+"Opinion: Should you buy Coinbase? The valuation is ridiculous, based on this math",2,1
+"Oregon State’s magical NCAA Tournament run falls short against Houston, social media reacts",2,1
+Ottman Azaitar cut from UFC after violating COVID-19 safety protocol,2,2
+Overeem Issues Statement On UFC Release,2,1
+Oxford-AstraZeneca: EU regulator says 'no indication' vaccine linked to blood clots,2,1
+Packers to host Buccaneers or Saints in NFC Championship Game,2,2
+Paige Bueckers lights up Baylor to lead UConn to the Final Four,2,1
+Paris Hilton is engaged to boyfriend Carter Reum,2,1
+"Pau Gasol, Kobe Bryant and the bond of brothers",2,1
+Paul Flores arrested in connection with Kristin Smart case,2,1
+"Pfizer to temporarily reduce vaccine deliveries to Canada, minister says | CBC News",2,1
+Piers Morgan slams Meghan and Harry's 'appalling' interview with Oprah,2,1
+Pixel Owners Will Get to Keep Unlimited Google Photos Storage After June,2,1
+Pokemon Go Sneasel Research Event Is Today,2,1
+"Pokémon Go Groudon counters, weaknesses and moveset explained",2,1
+Powerful quake hits near New Zealand; tsunami warning issued,2,1
+President Joe Biden rejoins the Paris climate accord in first move to tackle global warming,2,2
+"Prince Philip, husband of the U.K.'s Queen Elizabeth II, dies at 99",2,2
+Princess Eugenie Shares Adorable First Photo of Her Newborn Son on Instagram,2,2
+Probable line-ups: Juventus vs. Spezia | Football Italia,2,1
+"Protests erupt after Minnesota police shoot, kill man in traffic stop incident",2,1
+Putin warns against a fight of 'all against all' as the walls close in around him,2,2
+Quebec reports significant drop in daily COVID-19 cases with just 890 new infections on Monday,2,1
+RBLX Stock: Can the Meme Stocks Frenzy Take Roblox to $120?,2,1
+Rachel Uchitel says Tiger Woods doc brought out the trolls - Los Angeles Times,2,2
+Raskin: I am not going to lose my son in 2020 and country in 2021,2,1
+"Real Madrid vs. Chelsea - Football Match Report - April 27, 2021 - ESPN",2,1
+Report: Chiefs QB Patrick Mahomes expected to have offseason surgery for turf toe injury,2,2
+Report: Michael Brantley agrees to two-year deal with Astros,2,2
+Report: Mickey Callaway accused of misconduct,2,2
+Report: Will Fuller Reaches Agreement With Dolphins,2,1
+"Reports: Military stages coup in Myanmar, Suu Kyi detained",2,2
+Researchers Can't Figure Out What This Mac-Infecting Malware Actually Does,2,1
+Review: 'Finding 'Ohana' channels 'Goonies' in a fun if overstuffed trip - Los Angeles Times,2,1
+"Robes, Spices & Pans! Live Your Best Chrissy Teigen Life via Her Relaunched Cravings Website",2,2
+Rogers to acquire Shaw in $26 billion communications deal,2,1
+Royal Caribbean just announced 'fully vaccinated' cruises to the Bahamas and Mexico this summer,2,1
+"SEE IT: Meek Mill, Tekashi 6ix9ine scream at each other in Atlanta",2,1
+Sarah Huckabee Sanders announces run for governor of Arkansas,2,2
+Scientists built a perfectly self-replicating synthetic cell,2,2
+See First Photo of Kristen Stewart as Princess Diana in ‘Spencer’,2,1
+See the 'Worm' supermoon glow in the sky this weekend,2,1
+Serena Williams Battles Past Sabalenka in Australian Open 4th Round,2,1
+Shadow and Bone’s first trailer teases Netflix’s next big hit,2,2
+Sharon Osbourne defends supporting Piers Morgan,2,1
+Soleil Moon Frye Opens Up About Being Objectified as a Young Teen: 'There Was So Much Shame',2,1
+Soleil Moon Frye Opens Up About Past Relationship with Charlie Sheen: I Had a 'Huge Crush' on Him,2,1
+Sources: Pelicans sending Redick to Mavericks,2,1
+Sources: Phils keep Realmuto with 5-year deal,2,1
+SpaceX announces second crew member of its all-civilian space mission,2,1
+SpaceX is preparing to test-fly a new Starship after the last 4 exploded,2,2
+Splatoon 3 is coming to the Nintendo Switch in 2022,2,1
+Spotify CEO says live audio content is the next ‘Stories’ –,2,1
+"Spring breaker drugged, raped and left for dead in Miami Beach ID’d as Christine Englehardt",2,1
+Steelers TE McDonald retires after 8-year career,2,2
+Steve Cohen and Dave Portnoy feud over GameStop on Twitter,2,1
+Suez Canal ship has been freed: Live updates,2,2
+"Sweden's COVID infections among highest in Europe, with 'no sign of decrease' | The Chronicle Herald",2,1
+Swizz Beatz Remembers DMX: “He Lived His Life for Everyone Else”,2,1
+"Tampa Bay Buccaneers rout Kansas City Chiefs in Super Bowl LV, 31-9",2,2
+Tamzin Merchant breaks 12-year silence on playing Daenerys in original 'Game of Thrones' pilot,2,1
+Tennessee hires Josh Heupel as AD Danny White uses UCF connections to poach Vols' new coach,2,1
+"Tesla buys $1.5 billion in bitcoin, plans to accept it as payment",2,2
+Texas Roadhouse CEO Kent Taylor dies amid COVID-19 struggle,2,1
+"Texas becomes largest US state to lift COVID-19 mask mandate, allows businesses to open at 100%",2,1
+The CDC says millions of Americans aren't receiving the second dose of the coronavirus vaccine,2,1
+The Crown's Emma Corrin Says She Worked with a Dialect Coach to Sound Like Princess Diana,2,1
+The Hollywood Tech Tricks Getting Film Crews Back On Set,2,2
+The People With Power at Robinhood,2,1
+The Queasy Ending of Promising Young Woman,2,1
+The Story Behind Drew Carey's Ex-Fiancée Is So Tragic,2,1
+The Super Bowl: What is time?,2,2
+"The Walking Dead: Season 10, Episode 17 Review - 'Home Sweet Home'",2,1
+The biggest NBA trade rumors and deals ahead of 2021 deadline,2,2
+The buried ship found on an English estate,2,2
+The debate continues: ‘Oumuamua could be remnant of Pluto-like planet,2,2
+The last full moon of winter rises this weekend. When to see the February snow moon.,2,1
+These Baylor Basketball Players' Mullets Are Giving the Internet Life,2,1
+Third Ontario lockdown starts Saturday,2,1
+This $70 S Pen/case combo won't turn your S21 Ultra into a Galaxy Note | Engadget,2,2
+This 12-year-old prodigy is heading off to college. She aspires to be a NASA scientist,2,1
+This leak shows that Sony’s noise-canceling earbuds could fit in your ears better,2,1
+This new map of ice on Mars could guide future astronauts,2,2
+Thousands of Android and iOS Apps Leak Data From the Cloud,2,1
+Three-time Super Bowl champion WR Julian Edelman retires after Patriots release,2,2
+Thunder Signs Moses Brown to Multi-Year Contract,2,1
+TikTok Star Addison Rae Surprises Fans With Debut Single ‘Obsessed’ | RS News 3|19|21,2,1
+Tim Ryan rips GOP: 'Stop talking about Dr. Seuss',2,1
+Tony Finau Loses The Genesis Invitational In Playoff,2,1
+Trump administration issues racist school curriculum report on MLK day,2,2
+"Trump issues last-minute pardon to Albert Pirro, ex-husband of Jeanine Pirro",2,1
+Trump opens Florida office to push his former administration's agenda,2,1
+Trump targets Cheney as he unites with McCarthy,2,1
+"Trump's 'Diet Coke button' was very real, and Biden has already had it removed from the Oval Office",2,2
+"Trump's last-minute pardons include Bannon, Lil Wayne and scores of others",2,2
+"Turntable.fm Is Back, and Here's How It Works",2,1
+"U.S., not Canada, should be driver of value in Canopy Growth shares, analyst says",2,2
+US draws close to 100M vaccinations as baseball resumes,2,2
+Uefa furious at clubs' breakaway plan,2,1
+"VanVleet, Siakam lead Raptors' rally over Grizzlies",2,2
+Vancouver's TSN 1040 pulled off air as Bell Canada continues with cuts,2,2
+Video of Chicago Police Fatally Shooting 13-Year-Old Adam Toledo to Be Released Thursday,2,2
+"Video shows Tacoma police vehicle drive through crowd, run over at least 1 person",2,1
+Video: ‘Saturday Night Live’ spoofs Gina Carano following ‘Mandalorian’ firing,2,1
+Violent Videogames Aren’t Ruining Your Kids—but It’s Good to Discuss Them,2,1
+Volunteers clean up derecho debris at Oak Hill Cemetery in Cedar Rapids,2,1
+WATCH: Mac McClung sinks go-ahead jumper in final seconds to lift Texas Tech past Texas,2,1
+WWE's Roman Reigns Puts Away Kevin Owens at Royal Rumble In Botched Finish,2,2
+Warriors' Steph Curry named All-Star starter for seventh time in career,2,1
+Watch Bruno Mars and Anderson Paak Perform “Leave the Door Open” as Silk Sonic at 2021 Grammys,2,1
+Watch Cardi B Kiss Off 2020 in New 'Up' Video,2,2
+Watch Eminem’s New “Higher” Video,2,1
+Watch: SpaceX Falcon 9 rocket debris appears to create stunning light show,2,1
+Welcome to the 2020-21 NHL Season,2,2
+West Bengal election 2021 result: 7 reasons why Mamata Banerjee won | India News - Times of India,2,1
+What Time Will ‘WandaVision’ Episode 8 Come Out on Disney+?,2,1
+What is BHM on YouTube? Who created the YouTube BHM logo? Know details,2,2
+What you need to know about B.C.'s new travel restrictions | News,2,2
+When is Good Girls season 4 coming to Netflix?,2,1
+When to See the Lyrid Meteor Shower Light Up the Night Sky,2,1
+"Which wine was Chrissy Teigen's $13,000 surprise? Our wine critic guesses",2,2
+Who is The Weeknd? life and most popular songs,2,1
+Why did Vlog Squad member Jeff Wittek go to prison in 2011?,2,1
+Wiarton Willie goes online to predict early spring | CBC News,2,1
+Wife of “El Chapo” Arrested on International Drug Trafficking Charges,2,1
+Wild NASA image shows Perseverance rover just before Mars touchdown,2,1
+"With the Lucid Motors Merger Confirmed, CCIV Stock Is Your 10X Opportunity",2,2
+"Wizards vs. Hornets - Game Recap - February 7, 2021 - ESPN",2,1
+Yankees great DH Alex Rodriguez rips ‘scandalous’ lawsuit from former brother-in-law in court,2,1
+"Yella Beezy Arrested on Gun Charges, Rapper Claims Set-Up",2,1
+ZOM Stock Price Increases Over 45%: Why It Happened,2,1
+Zion Williamson Finally Has a Teammate Who Is as Strong as Him,2,1
+sees 59 new COVID-19 cases Tuesday as per capita rate rises,2,1
+הולכים לבחירות עם דור מוסקל,2,2
+למה טייפסקריפט נהייתה כל כך פופולרית? [עושים תוכנה],2,2
+נתניהו vs. בנט: הקרב נמשך,2,1
+‘Experiencing issues’: California EDD website is down,2,1
+"‘Spider-Man’ Stars Tease First Look Images Of Upcoming Film, Troll Fans With Multiple Title Cards",2,1
+‘Star Wars’ fans tweet #FireGinaCarano again after COVID-19 memorial tweet,2,2
+#WalkingClub101: Alligator and Snake Safety,1,1
+$18K Georgetown Penthouse Features Imported Namibia Marble,1,1
+'American Idol' Judge Katy Perry and Fiancé Orlando Bloom Have a Hilarious Meet-Cute Story,1,1
+'Amityville Horror' killer dies in prison at 69,1,1
+'Baked Alaska' Arrested Over Capitol Coup Attempt,1,1
+"'Bliss' review: Owen Wilson, Salma Hayek star in sci-fi drama - Los Angeles Times",1,1
+'Bye Bye 2020': better than 2020 - Inspired Traveler - Latest News,1,1
+'Chaos of clicks and sounds from below' as 70 orcas kill blue whale,1,1
+'Citizen Kane' Loses Perfect Rotten Tomatoes Score Thanks to Resurfaced 80-Year-Old Review,1,1
+'Cyberpunk 2077' Maker Was Hit With Ransomware—and Won't Pay Up,1,1
+'Electric emergency': Map of power outages in Dallas-Fort Worth area,1,1
+'I have to vote my conscience': Rep. Dan Newhouse opens up about his decision to support impeachment,1,1
+'Jersey Shore' Fans Petition to Have Ronnie Ortiz-Magro Fired From the MTV Series,1,1
+'MLK/FBI' Humanizes A Civil Rights Icon's Legacy,1,1
+'Malcolm & Marie' Has A Lot To Say And Nothing To Say,1,1
+'Mank' tops Golden Globes nominations with 6,1,1
+"'Mortal Kombat' ratchets up the gore, but as a movie, it's not a winner",1,1
+'Night Stalker' on Netflix: Timeline of Richard Ramirez case - Los Angeles Times,1,1
+'Now is just not the time to be flying': PM Trudeau announces new travel restrictions,1,1
+'SNL' steers clear of Biden in first episode since inauguration,1,1
+'Shadow And Bone': Netflix's Latest Fantasy Series Is Tsar-tlingly Bingeable,1,1
+'This is spring break like no other': Miami Beach extends curfew to control crowds,1,1
+'Walker' gets a new look with Jared Padalecki as the Texas Ranger,1,1
+'We need to get out': FedEx shooting survivor recounts deadly night in Indianapolis,1,1
+'Wolf of Wall Street' Jordan Belfort rallies behind Reddit uprising,1,1
+'Yellowstone' Fans Have an Interesting Theory About Beth Dutton's Fate in Season 4,1,1
+"'You can now buy a Tesla with bitcoin,' CEO Elon Musk said. But it could mean a big tax bill",1,1
+1 Top Growth Stock to Buy Now,1,1
+1.6-million-year-old mammoth DNA uncovers lineage we never knew existed,1,1
+"10 people dead, suspect in custody after shooting at Colorado supermarket",1,1
+"126 people in La. test positive for COVID after being fully vaccinated, .02% of total shots",1,1
+15 of the best Valentine's Day gifts to get on sale right now,1,1
+2 Teen Girls Charged With Murder In Carjacking Death Of Uber Eats Driver,1,1
+2021 Abu Dhabi Championship scores: Rory McIlroy leads by one stroke entering final round action,1,1
+"2021 JD Power Dependability study sees Lexus, Porsche ruling the roost",1,1
+2021 NBA All-Star preview: What to expect from unique circumstances | NBA.com,1,1
+2021 NBA trade deadline buzz: March 24 edition,1,1
+"2021 NFL Mock Draft: Patriots land QB, Dolphins add two Alabama stars to help Tua Tagovailoa",1,1
+"2021 Oscars Will Broadcast Live From Multiple Locations, Including Dolby Theatre",1,1
+"27 years after death of Kurt Cobain, group uses AI software to create a ‘new’ Nirvana song",1,1
+3 things Baylor men’s basketball needs to do to make a deep run in the NCAA Tournament,1,1
+3-Year-Old Missing for 3 Days Found ‘Alive and Well’ in Canadian Forest: 'It's a Great Feeling',1,1
+4.2 earthquake felt throughout the greater Bay Area,1,1
+"467 more COVID-19 cases, 2 deaths, over 25K vaccines reported Saturday in Utah",1,1
+5 Ways to Take the Ivy Park Approach to Marketing,1,1
+"5 takeaways as the Celtics fall to the Lakers 96-95, including Kemba Walker’s rough outing",1,1
+5 things to know before the stock market opens Tuesday,1,1
+"513 new Minnesota COVID-19 cases, 1 additional death",1,1
+6 Dr. Seuss books won't be published for racist images,1,1
+6 takeaways from the Trump-dominated CPAC,1,1
+"737 MAX declared emergency after engine stall, safely lands",1,1
+"8 dead after shootings at 3 Atlanta-area spas; suspect caught, linked to all 3 incidents",1,1
+"A $329 Nvidia RTX 3060 was impossible to find, but you could give Newegg’s raffle a try",1,1
+A 1990s iMac Processor Powers NASA’s Perseverance Rover,1,1
+A Look Back at Jane Fonda’s Iconic Style,1,1
+A Milky Way Photo Twelve Years In The Making,1,1
+A former member of YouTuber David Dobrik's 'Vlog Squad' said the group was 'toxic' and like a 'cult',1,1
+A look inside the glitzy Ritz-Carlton where Ted Cruz stayed in Cancun,1,1
+A masterpiece from Hideki Matsuyama to take Masters lead,1,1
+AACG Stock: 7 Things to Know About ATA Creativity as Shares Skyrocket 200%,1,1
+ADL Leader Says That Tucker Carlson “Must Go” Following Fox News Host’s “Replacement Theory” Remarks,1,1
+AEterna Zentaris (AEZS) Hits Multi-Year High by Rocketing 200%: Will It Sustain? – Own Snap,1,1
+"AMC, GameStop stock jumps: Reddit's 'insane' battle with Wall Street a 'train wreck'",1,1
+AOC's powerful plea for Republican accountability cannot be ignored | Moira Donegan,1,1
+AP source: Suspect in Capitol attack suffered delusions,1,1
+Aaliyah's Estate Updates Fans on Bringing Late Singer's Music to Streaming Services,1,1
+Aaron Carter's Dating History Involves a Tattoo on His Face and Two Engagements,1,1
+Aaron Rodgers and Shailene Woodley are engaged: Why this seemingly 'odd' couple makes sense,1,1
+Abigail Thorn Of ‘Philosophy Tube’ Comes Out As Transgender,1,1
+Academy Awards: How and where you can watch (almost) all of the 2021 Oscar nominees,1,1
+Activision Blizzard Inc. stock outperforms market on strong trading day,1,1
+Actor-director Rajiv Kapoor dies at 58,1,1
+Affirm hits $100 on opening day after listing at $49 (Updated),1,1
+AirPods Max teardown hints at secret feature Apple didn’t tell you about,1,1
+Alabama Basketball: Nate Oats undecided on playing Herbert Jones,1,1
+"Alabama tornadoes kill at least 5 people, injure many, damage buildings: ‘It was horrible’",1,1
+Alabama's Week 3 trip to Florida highlights 2021 SEC football schedule,1,1
+Alan Jackson Tributes His Family in Touching ACM Performance,1,1
+Alaves versus Real Madrid,1,1
+"Alberta to lift some COVID-19 restrictions and reopen gyms, in-person dining Feb. 8",1,1
+Alec Baldwin deactivates Twitter account after Gillian Anderson 'switching accents' tweet,1,1
+Alexandria Ocasio-Cortez reacts to Ted Cruz's tweet on GameStop: 'You almost had me murdered',1,1
+Alexei Navalny's wife among thousands arrested at anti-Kremlin protests | CBC News,1,1
+Ali Alexander said he was willing to die for Trump. Still Rep. Paul Gosar worked with him,1,1
+"All About Kaley Cuoco’s Millionaire Husband, Karl Cook",1,1
+All About Pamela Anderson's Wedding Look - from the Blue Tulle Skirt to the Hidden Hunter Boots!,1,1
+All Mainers 16 and older will become eligible for COVID-19 vaccines on Wednesday,1,1
+"All you need to know about Countess Mountbatten, who will be attending Prince Philip's funeral",1,1
+Alphabet (GOOGL/GOOG) Q4 revenue jumps 23% on search power | AlphaStreet,1,1
+"Alphabet shares leap as Google beats estimates, but Cloud lags",1,1
+Amanda Kloots marks 1 year since she drove Nick Cordero to the ER: 'We didn't kiss goodbye',1,1
+Amazon Admits Drivers Sometimes Have to Pee in Bottles While on the Job,1,1
+Amazon Earnings: What to Look For,1,1
+"Amazon Manager Sues Company For Racial Discrimination In Hiring; Cites Abuse, Sexual Harassment",1,1
+Amazon changes app logo that 'resembles Adolf Hitler',1,1
+"Amber Alert cancelled for 7-year-old girl from Bayfield, Ont.",1,1
+America's first youth poet laureate delivers powerful inauguration message,1,1
+American Airlines set to issue new stock after price run-up,1,1
+"American Airlines stock rockets after narrower-than-expected loss, sales and load factor beats",1,1
+Americans voted for an Australian White's Treefrog named Betty to be the 2021 Cadbury 'bunny',1,1
+"Amy Poehler, Kristen Wiig, and Natasha Lyonne sing the praises of Maya Rudolph",1,1
+Amy Schumer Shows Off 'Cute' C-Section Scar from Birth of Son Gene in Nude Mirror Selfie,1,1
+"Analysis: How Donald Trump could destroy the GOP, in 1 easy step",1,1
+Analysis: The growing GOP rebellion against Marjorie Taylor Greene,1,1
+"Analysis: Tommy Tuberville, meet the Constitution. Constitution, Sen. Tuberville.",1,1
+Andrade beats Williams to retain WBO middleweight title in Florida,1,1
+Android barcode scanner with 10 million+ downloads infects users,1,1
+Animation film festival goes online,1,1
+Annie Mac leaves BBC Radio 1 after 17 years,1,1
+Anvisa: a direção e a estrutura do órgão-chave para a vacinação,1,1
+"Apex Legends’ season 8 patch notes: Fuse, Repeater, Kings Canyon update",1,1
+Apple Earnings Crush Estimates as iPhone Scores Again,1,1
+Apple Reports First Quarter Results,1,1
+Apple comes out swinging in the duel of the data titans | John Naughton,1,1
+"Apple kills off original HomePod, will focus on $99 HomePod Mini",1,1
+"Apple mixed-reality headset likely coming sometime in 2022, analyst predicts",1,1
+Apple now shows device repairability scores in France,1,1
+Apple's app store goes on trial in threat to 'walled garden',1,1
+Aquaman 2: Amber Heard Fired From Jason Momoa’s Blockbuster Franchise Following the Johnny Depp Row?,1,1
+Arenado's days in Colorado nearing an end?,1,1
+Arkansas vs. Oral Roberts score: Razorbacks rally to advance to Elite Eight with dramatic victory,1,1
+Armie Hammer’s Hollywood career is in freefall as sex scandal explodes on social media,1,1
+Armie Hammer’s ‘Shotgun Wedding’ Role to Be Recast Amid Social Media Scandal,1,1
+"Arsenal vs. Manchester United Live Stream: How to Watch Premier League, TV Channel, Start Time",1,1
+"As Bitcoin tumbles, Dogecoin fans want to make 'DogeDay' happen on April 20",1,1
+"As Epic v. Apple approaches the courtroom, Valve is getting sued over Steam too",1,1
+"As Lakers' season unravels, LeBron rips play-in",1,1
+"As Ottawa mulls more travel restrictions, CBSA has turned away more than 30K at border",1,1
+"As Trump visits Alamo, Texas, famed battle is used to 'commemorate whiteness,' historians say",1,1
+Ash Wednesday 2021: a different look and a time for reflection,1,1
+Ashanti vs. Keyshia Cole: How to watch their Verzuz battle - Los Angeles Times,1,1
+Ashley Graham Flaunts Curves Wearing Very Little: ‘I Love Me’,1,1
+"AstraZeneca coronavirus vaccine can reduce transmission, not just severity of infection: study",1,1
+At least 27 dead after Mexico City subway overpass collapses,1,1
+Athens' Court Street erupts as Ohio Bobcats men's basketball upsets Virginia in NCAA Tournament,1,1
+Atlanta home rental ban could hurt those depending on income,1,1
+"Atletico Madrid 1-1 Real Madrid results, summary and goals: LaLiga 2020-21",1,1
+B.C. bumps up eligible age groups for vaccine amid online booking confusion | News,1,1
+B.C.’s updated COVID-19 vaccine timeline: When is your turn to get ‘the jab?’,1,1
+BBB 21: confira lista de participantes confirmados,1,1
+BBBY Stock: 6 Things to Know About Bed Bath and Beyond as Shares Bolt Higher,1,1
+BC’s New Vaccine Rollout Is Based Largely on Age | The Tyee,1,1
+BIG EAST coaches react to UConn’s return,1,1
+BOE Rumored to Supply iPhone 13 Display Panels After iPhone 12 Failures,1,1
+"Baby CEO, Memphis rapper, reportedly dead at 20",1,1
+Bad Bunny Had the Best Accessory of the Night: a Sunflower,1,1
+Bam Margera asks fans to boycott ‘Jackass 4’ after he was allegedly fired,1,1
+"Barack Obama salutes Biden: ‘Congratulations to my friend, President Joe Biden! This is your time’",1,1
+Barb and Star Go to Vista Del Mar review: Like a refreshing beach vacation,1,1
+"Barcelona vs. Real Valladolid free live stream (4|5|21): How to watch La Liga, time, channel",1,1
+Barcelona vs. Sevilla: Three stats show how Barca can mount a Copa del Rey comeback,1,1
+"Barcelona, Bilbao meet in 2nd Copa del Rey final in April",1,1
+Barstool Sports founder Dave Portnoy threatens to sue Vice over ‘lies and slander’,1,1
+"Batwoman’s season 2 premiere answers the question, “What Happened To Kate Kane?”",1,1
+Baylor calls foul on non-call in loss to UConn,1,1
+Be Happy For Stefon Diggs - Vikings Territory,1,1
+Bed Bath & Beyond stops selling MyPillow after CEO's Capitol siege comments,1,1
+Beeple sold an NFT for $69 million,1,1
+Belle Delphine drama explored: Here’s why Twitter wants her cancelled,1,1
+Ben Carson launches conservative think tank | TheHill,1,1
+Ben Roethlisberger's agent says Steelers want the quarterback to return,1,1
+Bernie Sanders And His Amazing Mittens At The Inauguration Are A Whole Damn Mood,1,1
+Best Superhero Movies of All Time – 24/7 Wall St.,1,1
+"Bethesda’s leap to Xbox Game Pass adds 12 classics: Oblivion, more [Updated]",1,1
+"Betty White Turns 99 Years Old, Happy Birthday!!!",1,1
+Beyond Meat stock soars after plant-based snack deal with Pepsi,1,1
+Bhad Bhabie Details ‘Abuse’ at Utah Ranch Where Dr. Phil Sends Teens,1,1
+"Bhad Bhabie breaks her silence, demands apology from Dr. Phil for condoning abuse",1,1
+Biden backs off on TikTok ban in review of Trump China moves,1,1
+Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction,1,1
+Biden is already facing pressure to scale back his $1.9 trillion Covid relief plan,1,1
+"Biden says next stimulus checks will be $1,400. How they could be targeted",1,1
+"Biden's speech to pitch universal preschool, $4 trillion in economic spending",1,1
+Biden’s pick for supreme court reform panel is a conservative Kavanaugh defender,1,1
+Big 12 Conference Shuffles MBB Schedules,1,1
+"Billie Eilish debuts new look on British Vogue cover, reflects on negative body commentary",1,1
+Billie Holiday: How the Government Targeted the 'Strange Fruit' Singer with Drug Arrests,1,1
+Billionaire raffling off SpaceX flight to fund cancer research,1,1
+"Binance, Kraken, and Bittrex Experienced Technical Issues Amid Bitcoin Rollercoaster",1,1
+"Bitcoin drops below $50,000, dented in part by rising U.S. tax worries",1,1
+Bitcoin’s $1 trillion market valuation is Twitter gold,1,1
+"BlackBerry, AMC and Other Reddit YOLO Favorites That Aren’t GameStop",1,1
+Blackstone-backed dating app Bumble raises $2.2 billion in IPO,1,1
+Blockchain Stocks: Why RIOT and MARA Stock Are Up Big Today,1,1
+Blue Monday: Tips to beat the saddest day of the year,1,1
+Blues release statement on passing of Bobby Plager,1,1
+Bob Odenkirk Channels His 'Nobody' Character During Late Night Appearance,1,1
+Bobby Brown 2021 NFL Draft Profile | Last Word on NFL,1,1
+Borussia Dortmund unveil special neon kit,1,1
+Boston Marathon icon Dick Hoyt has died at age 80,1,1
+"Both doses of Covid-19 vaccines critical to stay ahead of variants, Fauci says",1,1
+Bowen Yang As Fran Lebowitz Is As New York As Machetes on the Subway,1,1
+Brandy Shares How Whitney Houston and 'Cinderella' Changed Her Life Forever (Exclusive),1,1
+Breached water plant employees used the same TeamViewer password and no firewall,1,1
+Brighton & Hove Albion 1-0 Tottenham Hotspur: Premier League – as it happened,1,1
+Britney Spears dances to music featuring ex Justin Timberlake,1,1
+Britney Spears requests her dad be permanently removed from conservatorship,1,1
+Broncos LB Miller subject of police investigation,1,1
+Brooke Shields on Recovering from Broken Femur: 'Every Day I Feel Like I'm Having to Begin Again',1,1
+Bruce Springsteen faces drunken driving charge in New Jersey after November incident,1,1
+"Bruce Springsteen has DWI charges dropped, pleads guilty to drinking tequila in federal park in N.J.",1,1
+Bruce Willis reportedly asked to leave store after refusing to wear mask,1,1
+Bruins stun Flyers in OT thanks to rally from Pastrnak and 'Perfection Line',1,1
+Bruno Mars is having quite the week,1,1
+Buckingham Palace breaks silence on Meghan and Harry Oprah claims,1,1
+"Bucks' Lasry, 33, gets COVID vaccine, 'got lucky'",1,1
+Buddy Boeheim Discusses Win Over West Virginia,1,1
+"Budget 2021: Government unveils $101.4B in new spending, with deficit declining",1,1
+Building the Maple Leafs' ideal forward lines,1,1
+Bull trend pauses: S&P 500 traverses the range,1,1
+Burger King gets grilled for ‘women belong in the kitchen’ tweet,1,1
+CDC: fully vaccinated Americans may travel but with precautions,1,1
+CJ Fredrick's return to health gives Iowa a lift as it seeks to sweep Michigan State,1,1
+CNN Anchor Brooke Baldwin Announces Departure From Network,1,1
+"CNY Scholastic Art 2021: See the best paintings, drawings, photos from area teenagers",1,1
+"CONFIRMED lineups: Real Madrid versus Levante, 2021 La Liga",1,1
+COVID nursing home deaths: Andrew Cuomo is running from his part in my dad's death,1,1
+"COVID restrictions may return in suburban Cook Co. if cases continue to rise, health officials fear",1,1
+COVID-19 : bilan du 8 mars,1,1
+"COVID-19 Vaccine: Publix receives 70K new doses, says glitch in online system has been fixed",1,1
+COVID-19 Vaccine: Will It Protect Against New Variants And Do You Need A 2nd Dose?,1,1
+COVID-19 restrictions: Outdoor gatherings permitted in B.C. ahead of spring break,1,1
+"COVID-19 update: Another 1,428 cases, 8 deaths recorded in B.C. over the weekend",1,1
+"COVID: B.C. extends restrictions through May long weekend, planning travel restrictions",1,1
+Caitlyn Jenner files paperwork to run for governor of California,1,1
+Caldwell column: Auburn basketball building something special once again,1,1
+"California theme parks, stadiums can reopen as soon as April 1 under revamped COVID-19 rules",1,1
+Cambridge Covid-19 testing Centre hits 3 million test milestone,1,1
+Can airports meet the challenge of a surge in summer travelers?,1,1
+Can fully vaccinated people hug their family members? CDC still has not released guidance,1,1
+Canada Goose shares soar after revenue rises for the first time since the beginning of the pandemic,1,1
+Canada expecting 1M Pfizer COVID-19 vaccine doses a week until early May,1,1
+Canada suspends use of AstraZeneca Covid vaccine for those under 55,1,1
+"Canada’s only mouth-blown, hand-cut crystal maker closing permanently",1,1
+Canadian golfer Mike Weir earns 1st win on PGA's senior tour | Sports,1,1
+Canadiens acquire Eric Staal from Sabres for pair of draft picks,1,1
+Canadiens legend Guy Lafleur lends hand to CHUM cancer fundraiser,1,1
+Canucks planning to talk to Tryamkin about an NHL return: report | Offside,1,1
+Capitol Police Officer Brian Sicknick remembered as a 'peacekeeper' as he lies in honor,1,1
+Carey Mulligan's husband Marcus Mumford crashes 'SNL' monologue: 'Where are the kids?',1,1
+Catholic board dismisses class over COVID-19 case 3 days after in-person learning returns,1,1
+Cause of mysterious dark streaks on Mars found,1,1
+Charisma Carpenter accuses 'Buffy' creator Joss Whedon of toxic and verbally abusive behavior,1,1
+"Chelsea v Atlético Madrid: Champions League last 16, second leg – live!",1,1
+Chelsea vs. Everton: Plenty of Value on Total at Stamford Bridge,1,1
+"Chicago weather: Another foot of snow expected, wind chill values remain below zero",1,1
+"Chiefs release Eric Fisher, Mitchell Schwartz",1,1
+"China bans Teslas for military members, employees of state-owned companies",1,1
+China eventually wants astronauts to stay on moon for long periods of time,1,1
+China reportedly bans Tesla cars from military facilities over spying fears,1,1
+China reports coronavirus found on ice cream,1,1
+Chloe Bailey Sages the TL,1,1
+Chris Cuomo says he 'obviously' cannot cover sexual harassment allegations against his brother,1,1
+Chris Harrison Says Katie Thurston Hasn't Been Cast as Next Bachelorette Yet: 'Debate Still Going',1,1
+Chrissy Metz Denies That She and Bradley Collins Are Engaged After She's Spotted Wearing Ring,1,1
+"Christopher Plummer, Oscar Winner and ‘Sound of Music’ Star, Dies at 91",1,1
+"Christopher Plummer, actor of 'The Sound of Music' fame, dies at 91",1,1
+Chrome 89 increases desktop memory efficiency with PartitionAlloc,1,1
+"Chuck Norris wasn't at Capitol riots, despite Twitter claims - Los Angeles Times",1,1
+"Cicely Tyson, legendary actor known for 'Sounder' and other roles, dies at 96",1,1
+Citadel shoots down Robinhood link,1,1
+Claire dela Fuente dies at 63,1,1
+Clubhouse Gets Investment Interest at $1 Billion Valuation,1,1
+"Coca-Cola promotes anti-white rhetoric, invites backlash",1,1
+Coinbase pays $6.5 million to settle trading investigation with CFTC,1,1
+Coinbase’s CEO got paid three times Goldman’s CEO in 2020—and other pre-IPO surprises,1,1
+Colin Cowherd misses Fox Sports shows after blood clot was discovered in his lung,1,1
+Collin Morikawa conquers Concession for convincing WGC-Workday win,1,1
+"ColourPop x Animal Crossing Collection Launches Today: Start Time, Prices, And Product List",1,1
+Comet from edge of solar system killed the dinosaurs: study,1,1
+Congress hits Robinhood over lack of transparency around GameStop stock spikes,1,1
+Congressman reacts to CNN calling Minneapolis riots a protest: 'Get the story right',1,1
+Cook County Vaccine: 22K Appointments Released Thursday,1,1
+"Cook County to open 25,000 first-dose appointments Sunday for four suburban mass vaccination sites",1,1
+Costco to raise hourly pay to $16 as minimum wage fight brews in Congress,1,1
+Couch-Tard confirms merger talks with French grocery giant Carrefour,1,1
+"Coupang, the Amazon of South Korea, raises $4.6 billion in US IPO",1,1
+Covid vaccines and blood clots: Experts warn little evidence for concern,1,1
+Covid-19: Vaccine rollout in England extends to 44-year-olds,1,1
+Cruz blocks vote on Biden Commerce secretary nominee over Huawei concerns | TheHill,1,1
+Crypto industry to get first major U.S. stadium with Miami-Dade County approving FTX for Heat home,1,1
+"Crypto: Bitcoin, Ether, XRP, Dogecoin sink over Biden tax plans",1,1
+"Curfew in place for Brooklyn Center following tensions after officer shot, killed man",1,1
+"Cuttlefish show self-control, pass 'marshmallow test'",1,1
+DHS moves up COVID-19 vaccination timeline for people with certain medical conditions,1,1
+DJI's future first-person drone surfaces in an unboxing video | Engadget,1,1
+Dakota Johnson reveals having panic attack while filming singing scene,1,1
+Dan Campbell emerges as favorite to be new Lions head coach,1,1
+Daniel Kaluuya says he had an 'intense' 8-hour meeting with Fred Hampton's family,1,1
+Daniel Silva Wants to Make Amends with Corey La Barrie's Family,1,1
+Dannielynn Birkhead Seeks Answers About Her Late Mother Anna Nicole Smith in New Special,1,1
+Dark matter halo found around ancient 'cannibal' galaxy,1,1
+David Letterman’s 2013 Interview With Lindsay Lohan Sparks Backlash On Social Media,1,1
+Deal reached in suit alleging James Franco sexual misconduct,1,1
+Delayed Again! Johnny Depp’s $50M Defamation Trial Against Amber Heard Pushed To Next Year,1,1
+Delta cancels over 100 flights as pandemic travel soars,1,1
+Demi Lovato Belts Out Uplifting Performance of 'Lovely Day' on 'Celebrating America' TV Special,1,1
+Democrats kick off the process toward passing $1.9 trillion Covid relief plan,1,1
+"Democrats' $50,000 student loan forgiveness plan would make 36 million borrowers debt-free",1,1
+Derek Chauvin convicted of murder and manslaughter in George Floyd's death,1,1
+Deshaun Watson removes Texans references from social media profiles amid tension with franchise,1,1
+Detained Canadian Michael Kovrig's wife calls for diplomatic solution ahead of Chinese trial | News,1,1
+"Devin Booker Talks Chris Paul, Suns' Title Expectations, Kobe Bryant, More",1,1
+Dexter Fowler is Finally Out of St. Louis - Traded to the Angels | Bleacher Nation,1,1
+"Diablo 4’s classes are all unique, and that starts with the Rogue",1,1
+Did Closing Schools Save Lives Or Cost Lives? The Debate Continues,1,1
+Did Machine Gun Kelly Cheat When He Got With Megan Fox? Logan Paul's Podcast Has The Deets,1,1
+"Died: Carman, Christian Showman Who Topped Charts with Triumphant Faith",1,1
+"DirecTV to Become Standalone Company Through A.T.N.T, TPG Capital Pact",1,1
+Discord bans the r/WallStreetBets server,1,1
+"Disney Closing Blue Sky Studios, Fox’s Once-Dominant Animation House Behind ‘Ice Age’ Franchise",1,1
+Disney delays Death On The Nile amidst ongoing Armie Hammer scandal,1,1
+"Disney smashes streaming subscriber expectations, boosting segments hurt by Covid",1,1
+"Disneyland, California Adventure Park to reopen April 30, Disney announces",1,1
+Dita Von Teese addresses abuse allegations against ex-husband Marilyn Manson,1,1
+"Doctor Bharat Narumanchi Murdered Popular Austin Pediatrician, Took Hostages: Cops",1,1
+Dogecoin Jumps After Musk Promises 'Literal' Moonshot,1,1
+Dogecoin's cocreator explains how the 'parody' currency turned into a billion-dollar movement,1,1
+"Dolphins' Isaiah Wilson released by team following extremely short stint in Miami, per report",1,1
+"Dow falls 660 points on losses for shares of Johnson & Johnson, Apple Inc.",1,1
+Dow futures jump more than 100 points after blowout jobs report,1,1
+"Drake Teases New Music, Sequel to 'Scary Hours' EP at Midnight",1,1
+Drew Barrymore Celebrates Birthday With Cameron Diaz,1,1
+Drillers to Unveil Jackie Robinson Mural,1,1
+"Driver fatally shot after vehicle 'rammed' into 2 officers near US Capitol, killing 1",1,1
+Drunk driver Marco Muzzo to seek full parole at virtual hearing today,1,1
+Dubs Daily: The Starting Five,1,1
+Duke men's basketball players react to season's abrupt end,1,1
+"Dustin Diamond Has Stage 4 Small Cell Carcinoma, Completes First Round of Chemo",1,1
+Dyson just released a — wait for it — laser vacuum,1,1
+"EN, Cornellà versus Barcelona live online, 21/01/2021",1,1
+"EN, Real Madrid versus Valencia live, 14/02/2021",1,1
+"ESPN fires Paul Pierce after racy, wild video goes viral",1,1
+EYES Stock: The Big FDA News That Has Second Sight Shares Soaring,1,1
+Eagles fire head coach Doug Pederson after five seasons,1,1
+"Easter Movies on Netflix, Hulu and Amazon Prime 2021",1,1
+Edge Stuns Randy Orton to Win 2021 WWE Men's Royal Rumble Match,1,1
+Edwards says yes as Liverpool agree to pay up £18m needed for signing,1,1
+Eleonora Srugo accused of being the one Dale has cheated on Clare with,1,1
+"Elgin Baylor, Lakers Hall of Famer and NBA great, dies at 86",1,1
+Elizabeth Hurley bares all to set record straight about her and son Damian's future,1,1
+Elon Musk says bitcoin seems high after surpassing $1 trillion market value,1,1
+Elon Musk’s Tesla reports earnings: What Wall Street is watching,1,1
+Emily Blunt Does Workouts Like This 6-Move Circuit at Home Four Times a Week,1,1
+"Engelbert Humperdinck's wife, Patricia Healey, 85, dies after contracting COVID-19",1,1
+Eric Andre's Five Favorite Films,1,1
+"Eric Spinato, Top Booker For Fox Business, Dies Of Coronavirus",1,1
+Europa Decision Delivers Crushing Blow To NASA’s Space Launch System (SLS),1,1
+European Space Agency: Astronaut recruitment drive for greater diversity,1,1
+Everton v Tottenham: FA Cup fifth round – live!,1,1
+Everything You Need to Know: Ravens vs. Bills,1,1
+Everything the Nets gave up for James Harden,1,1
+"Everything you need to know about COVID-19 in Alberta on Thursday, Jan. 21 | CBC News",1,1
+Ex-Facebook exec Chamath Palihapitiya says he wants to run to replace Gov. Gavin Newsom,1,1
+Ex-NFL WR Vincent Jackson found dead at 38,1,1
+Ex-Wild captain Koivu retires with Columbus,1,1
+"Executions of Lisa Montgomery, only woman on federal death row, and two others halted",1,1
+Expect Churchill Capital IV Stock Volatility Until Clarity on SPAC Merger,1,1
+Explained: Why Dogecoin is rising and how to buy it,1,1
+Express Inc. stock skyrockets amid Reddit-fuelled frenzy,1,1
+Express Shares More Than Double Amid Reddit Speculation,1,1
+"FA Cup quarter-final draw: Date, ball numbers, TV channel, start time",1,1
+FC Barcelona News: 10 April 2021,1,1
+FIFA Club World Cup 2020 - News - FIFA Club World Cup™ squads confirmed - FIFA.com,1,1
+Facebook Crushed Earnings Estimates. Its Stock Is Soaring.,1,1
+Facebook is finally banning vaccine misinformation | Engadget,1,1
+Facebook is secretly building a smartwatch and planning to sell it next year,1,1
+Facebook shows off how you’ll use its neural wristbands with AR glasses,1,1
+Family members of front-line workers now eligible to receive COVID vaccine in Oregon,1,1
+"Family: 16-year-old girl shot, killed by police officer in southeast Columbus",1,1
+Fantasy NBA Daily Notes: Anthony Edwards becoming Minnesota's top gun,1,1
+"Feeling the chill, Demi Lovato apologizes for blasting an L.A. frozen-yogurt shop",1,1
+"Fernando Uribe, ¿una realidad para Millonarios?",1,1
+"Fire in Oshawa sends multiple people to hospital, 4 still unaccounted for",1,1
+Fireball streaks through New England sky,1,1
+First black hole ever detected is more massive than we thought,1,1
+First record of the sound produced by the oldest Upper Paleolithic seashell horn,1,1
+Fitbit's latest tracking feature reminds you to log your blood glucose levels | Engadget,1,1
+Five matches to watch on Day 2 of AO 2021,1,1
+Five things we learned from Amstel Gold Race 2021,1,1
+Flamengo X Bangu - Superesportes,1,1
+"Florida manatee has 'TRUMP' etched into its side, officials seek information",1,1
+"Florida reports 4,690 new coronavirus cases, 98 resident deaths",1,1
+"Flurry of earthquakes, including 4.0 magnitude temblor, centered near Lennox rattles S O Cal",1,1
+Foden lined up for key City role versus Dortmund,1,1
+Football camp player attempting to trash-talk Cam Newton properly gets called out by social media,1,1
+"For Fourth Time in Seven Years, Packers Lose NFC Championship Game",1,1
+Former 'Bachelor' star Colton Underwood comes out as gay,1,1
+"Former Bears offensive lineman Kyle Long ends 'retirement', returning to NFL after one-year hiatus",1,1
+Former NFL linebacker Geno Hayes enters hospice care with liver disease,1,1
+Former U.S. President Donald Trump acquitted in second impeachment trial,1,1
+Fortnite releases Brie Larson locker bundle,1,1
+Fossils of oldest member of huge dinosaur group found in Argentina,1,1
+French actor Gérard Depardieu under investigation for alleged rape and sexual assault,1,1
+Fry’s Electronics is shutting its doors for good,1,1
+FuelCell Energy Inc. stock underperforms Thursday when compared to competitors,1,1
+Full list of new COVID-19 emergency restrictions in Ontario,1,1
+"Fultondale tornado kills 1, injures dozens; search and rescue continues: ‘Like a bomb went off’",1,1
+"G. Gordon Liddy, planner of Watergate burglary, dies at 90",1,1
+GM extends production shutdown into April due to semiconductor chip shortage,1,1
+GM's Super Bowl ad finds Will Ferrell challenging US to out-EV Norway,1,1
+GOP Sen. Burr censured by North Carolina GOP after Trump conviction vote,1,1
+"GTA malls entering grey zone use staff at doors, tech to track capacity",1,1
+Game 4 Preview: Winnipeg Jets vs. Ottawa Senators,1,1
+"Game Day 5: Senators vs. Oilers, Feb. 8",1,1
+Game Preview: Suns (8-6) run it back with Nuggets (8-7) in Phoenix,1,1
+Game Thread: Toronto Raptors vs. Miami Heat updates,1,1
+Game day beer picks: What to drink for Syracuse vs. San Diego State,1,1
+GameStop files with SEC to sell 3.5 million shares,1,1
+GameStop short sellers are still not surrendering despite nearly $20 billion in losses this month,1,1
+GameStop short-sellers have lost $1.9 billion in just 2 days amid the stock's latest spike,1,1
+GameStop's CEO is getting millions on his way out. He's not the only one.,1,1
+"GameStop: US lawmakers to quiz key players from Robinhood, Reddit and finance",1,1
+"Gas explosion rips through Madrid building, killing 3",1,1
+George Floyd Case: Jury Selection In Chauvin Trial Delayed Over Murder Charge Appeal,1,1
+"George Segal, Leading Man of Lighthearted Comedies, Dies at 87",1,1
+Gerry Adams unveils Irish unity-themed Easter egg,1,1
+Ghostly video reveals what it’s like to be on the surface of Mars,1,1
+Gig work set to become mainstream in finance,1,1
+Gigi Hadid Reveals Her Daughter’s Unique Baby Name,1,1
+"Girl, 11, finds parents dead in Missouri home. Both had Covid-19.",1,1
+Gisele Bundchen Is Loving Tom Brady's Start In Green Bay,1,1
+Glamorous French star Nathalie Delon dies at 79 - France 24,1,1
+Godzilla vs. Kong Stomps Ahead Two Months to an Earlier Release Date,1,1
+Godzilla vs. Kong trailer: The HBO Max release brings the brawl,1,1
+Golden Globes Ratings Looking Like All-Time Low For NBC In Early Numbers,1,1
+"Gonzaga vs. Baylor predictions: NCAA championship game picks, odds, spread, lines for March Madness",1,1
+Goodbye Vivek: Veteran Tamil comedian passes away in Chennai,1,1
+Google Doodle celebrates Mexican singer and composer María Grever,1,1
+Google Doodle celebrates basketball inventor James Naismith,1,1
+Google Doodle celebrates the Metropolitan Museum of Art,1,1
+"Google Fi VPN coming to iPhone users, exiting Android beta - 9to5Google",1,1
+Google Maps users can now pay for parking or their transit fare right from the app –,1,1
+Google Photos for Android getting advanced video editor,1,1
+Google Pixel Watch leak hints at the most stunning smartwatch yet,1,1
+Google introducing a feature in Chrome 90 to create links to highlighted text on a webpage,1,1
+Google says 'more than 100 games' coming to Stadia in 2021 - 9to5Google,1,1
+Google: Here's why some people get more phishing emails and malware spam,1,1
+Gorilla Glue on Hair Leads to Hospital Visit,1,1
+Got vaccinated? Here's all the free stuff you can get,1,1
+Gottlieb says infections among young people are fueling new COVID-19 hot spots,1,1
+Governor offers help to Alabama towns hit by killer tornado,1,1
+Grammy nominee Phoebe Bridgers and other female rockers to watch,1,1
+Grant people a living $15-an-hour wage? Sen. Kyrsten Sinema would rather they eat cake,1,1
+Groundhog Day 2021: Canada's weather-predicting rodents call for early spring,1,1
+Guiding the Way,1,1
+Gwen Stefani Threatened to Break Up With Blake Shelton If He Didn't Fix Up His Oklahoma Ranch,1,1
+HDOA NEWS RELEASE: Snake Captured in Aiea and Iguana Captured in Waimanalo This Week,1,1
+"Half a billion Facebook users' information posted on hacking website, cyber experts say",1,1
+Hall of Fame pitcher Don Sutton dies at 75,1,1
+Hamilton among 12 F1 drivers boycotting social media,1,1
+Hank Aaron’s death prompts call to change name: Braves to Hammers,1,1
+Harden sits out Nets' loss with thigh contusion,1,1
+Harry Potter's Tom Felton Reveals His Grandpa Had a Secret Cameo in Series as a Hogwarts Professor,1,1
+Harry Styles at 27: Looking back at the singer's fashion evolution,1,1
+Harvard removes Republican Elise Stefanik from advisory committee,1,1
+Harvard scientists have a new take on what wiped out the dinosaurs,1,1
+He's Here! Christina Milian Gives Birth to 3rd Child,1,1
+Health Secretary Azar tells Trump U.S. Capitol attack was assault on democracy that tarnishes legacy,1,1
+"Hear Tom Morello Across SiriusXM, with New Streaming Channels, Weekly Show and Podcast",1,1
+"Heat vs. Warriors odds, line, spread: 2021 NBA picks, Feb. 17 predictions from proven computer model",1,1
+Heat’s Meyers Leonard utters anti-Jewish slur during video-game play | VIDEO,1,1
+Hedge fund Alden to buy Tribune Publishing in deal valued at $630 million,1,1
+"Hedge fund failure slams Credit Suisse, Nomura and other banks",1,1
+"Heinz ketchup shortage 2021: The condiment is in high demand at restaurants, fast-food chains",1,1
+"Hendriks, White Sox agree to deal (source)",1,1
+Here Are All the Winners From the 2021 ACM Awards,1,1
+Here's What You Need To Know About The Senate Impeachment Trial,1,1
+Here's Why People Think JoJo Siwa Came Out as Queer,1,1
+Here's Why Red-Hot ZOM Stock Could Soar Another 200%,1,1
+Here’s Elon Musk’s ‘SNL’ opening monologue (as redacted by the SEC),1,1
+Here’s How Much Elizabeth Olsen’s Net Worth Accounts For Her Massive Marvel Salary,1,1
+Here’s What’s Happening With Comedy Central on Streaming,1,1
+Here’s how Betty White will celebrate her 99th birthday,1,1
+Hillary Clinton: Biden less 'constrained' than Clinton and Obama due to prior administration,1,1
+"History, glamour and a weird ending at the Oscars",1,1
+Hitting the Books: How NASA survived the Reagan era 'Dark Ages',1,1
+Hive Social Is a New Social Media App That Apparently Blew up Over Night,1,1
+Hold my broom: May Day | Beltane,1,1
+Holly Madison Admits She’s Grateful Hugh Hefner Never Got Her Pregnant,1,1
+Hollywood Life,1,1
+"Hollywood actor charged with fraud in alleged multimillion dollar Ponzi scheme, court documents show",1,1
+Holocaust Remembrance Day 2021: Auschwitz survivors mark anniversary online amid COVID pandemic,1,1
+"Hornets' LaMelo Ball, Miles Bridges showed vs. Sixers why they're NBA's most exciting combination",1,1
+"Hospitalizations across Ontario surge as province reports 2,903 new coronavirus cases",1,1
+"House Republicans, citing Britney Spears, seek hearing on conservatorships",1,1
+House To Vote On Equality Act: Here's What The Law Would Do,1,1
+House passes Biden's $1.9 trillion Covid relief package,1,1
+How 10 weeks in Portugal changed Conor McGregor,1,1
+How Bobby Ryan is quickly proving his value to the Detroit Red Wings,1,1
+How Dr. Scott Gottlieb protects his young kids on playdates before they can get Covid shots,1,1
+How Every Single Participant in This Cycling Class Got COVID-19,1,1
+How Inter Milan won the Serie A title,1,1
+How Long Does Immunity from COVID-19 Vaccination Last?,1,1
+How a leading anti-Trump group ignored a crisis in its ranks,1,1
+How early humans' quest for food stoked the flames of evolution,1,1
+How to Navigate the New Google Play Store Interface,1,1
+"How to Watch Purdue's Game with Minnesota on Saturday; Gametime, TV, Point Spread",1,1
+How to get involved in Earth Day 2021 from school or home - and what the date marks,1,1
+How to track the status of your third stimulus check,1,1
+How to watch AEW ‘Revolution’,1,1
+"How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special",1,1
+"How to watch La Liga - Barcelona vs. Athletic Club (1/31) | TV Channel, Live Stream, Time",1,1
+How to watch the 2021 Golden Globes without cable,1,1
+Hulu’s Boss Level gets tired of its own plot before it even starts,1,1
+Husband of 'Pioneer Woman' Ree Drummond fractured his neck in firetruck crash,1,1
+ICBC introduces online estimator — How much will you save?,1,1
+Impeachment trial descends into chaos over Lee objection | TheHill,1,1
+"In 'Nomadland,' Discover The Joy And Sorrow Of The Road Less Traveled",1,1
+Incêndio atinge maior fábrica de vacinas do mundo na Índia e deixa mortos,1,1
+"India versus England: Some Indian players are not playing in their ideal positions, says Ajay Jadeja",1,1
+Inside Shailene Woodley and Aaron Rodgers’ “Private and Low Key” Romance,1,1
+"Instagram, WhatsApp, and Facebook Messenger have recovered from a major outage",1,1
+Intel Agencies Call Out Superlawyer Rudy Giuliani For Laundering Russian Propaganda,1,1
+Intel shows exactly what we expect from the next generation MacBook Pro,1,1
+Introducing our MLB The Show 21 cover athlete Fernando Tatis Jr.,1,1
+Investors Can Buy IPOE Stock on the Dip Before SoFi Merger,1,1
+Invincible Season-Finale Recap: My Father the Hero,1,1
+Is 'The Wolf of Wall Street' Based on a True Story?,1,1
+Is Bitcoin really decentralized? What triggered the ‘biggest liquidation’ in history - Ran Neuner,1,1
+Is BlackBerry (TSX:BB) Stock Headed for $20?,1,1
+Is Blackpink’s Jennie dating BigBang’s G-Dragon? Their relationship explored!,1,1
+"Is Facebook, Inc. Common Stock (FB) Stock Worth a Buy Wednesday?",1,1
+Israeli fashion designer Alber Elbaz dies at 59,1,1
+I’m newly eligible for a COVID vaccine. Now what? - The Boston Globe,1,1
+"Jack Hanna, beloved animal expert, battling dementia",1,1
+Jack Harlow: 5 Things About The Singer Making His ‘SNL’ Debut,1,1
+Jaguars finalizing deal with Urban Meyer to be next head coach,1,1
+Jake Paul confirms boxing match with UFC fighter Ben Askren,1,1
+"James Harden Triple-Doubles in Debut, Kevin Durant Drops 42 as Nets Beat Magic",1,1
+"James Harden is fed up, says Rockets situation 'can't be fixed' before walking off postgame podium",1,1
+"James Hewitt - who is Princess Diana's 'ex-lover', and where is he now?",1,1
+"January 19, 2021 inauguration, Biden, Trump and Covid-19 memorial news",1,1
+Jared Goff and the Rams: Did he change or did they?,1,1
+Jazmine Sullivan: Why Super Bowl 2021 national anthem singer is no rookie,1,1
+Jeep Pulls Bruce Springsteen’s Super Bowl Ad From YouTube After News Of Singer’s DWI Arrest,1,1
+"Jeffrey Dean Morgan, like you, is still not over Denny’s death on ‘Grey’s Anatomy’",1,1
+Jennifer Aniston celebrates joyous occasion with never-before-seen photos,1,1
+Jennifer Aniston's 'Friends' Character Trait is Ruining Show for Some Fans,1,1
+Jennifer Lopez Broke Into Spanish During Her Inauguration Performance — Here's What She Said,1,1
+Jennifer Lopez and Alex Rodriguez End Engagement: 'This Has Been a Long Time Coming' Says Source,1,1
+Jennifer Love Hewitt felt like a 'Barbie doll' in Heartbreakers,1,1
+"Jessica Pegula, daughter of Bills owners, falls in quarterfinals of Australian Open",1,1
+"Jessica Walter Dies: Emmy-Winning ‘Arrested Development’, ‘Archer’ Actress Was 80",1,1
+Jets Agree to Terms With Corey Davis,1,1
+"Jim Cramer throws cold water on talks about market peak, says economy starting a new cycle",1,1
+"Jimmer Fredette Continues To Ball Out In China, Drops 70 Points - KSL Sports",1,1
+Jimmy and Rosalynn Carter won’t attend Biden’s inauguration,1,1
+JoJo Siwa shares photos with girlfriend: 'I’ve been the happiest I have ever been',1,1
+Joe Rogan spread anti-vaccine misinformation. Spotify's CEO is standing behind him,1,1
+Johannes Gutenberg: Google honors printing press inventor,1,1
+John Fetterman launches Senate bid in Pennsylvania,1,1
+John Kerry: US won’t weaken China policy for climate change progress,1,1
+"Johnny Depp, Forest Whitaker Team Up to Solve Biggie's Murder in 'City of Lies' Trailer",1,1
+Jon Jones predicts Jan Blachowicz will knock out Israel Adesanya at UFC 259,1,1
+"Jon Jones tells Israel Adesanya’s coach ‘give it up,’ the proposed superfight is dead already",1,1
+Jon Stewart joins Twitter and defends the Redditors,1,1
+Jonah Hill Slammed the Media for 'Years of Public Mockery' About His Body,1,1
+"Jordan Peterson says he was suicidal, addicted to benzos and has schizophrenia",1,1
+"Jordan prince says he's confined, lashes out at authorities",1,1
+Julia Letlow wins Louisiana special election to replace husband in Congress who died from COVID-19,1,1
+Justin Timberlake and Jessica Biel 'Happy' as They Spend Family Time After Announcing Baby No. 2,1,1
+Justin Timberlake reveals new son's name and it's beautiful,1,1
+Justin Timberlake under fire after explosive new documentary,1,1
+"Juventus vs. Inter Milan Live Stream: Watch Coppa Italia Online, Time, Lineups",1,1
+KGET 17,1,1
+KTLA,1,1
+KXAN Austin,1,1
+"Kamala Harris’ road to the White House started at ‘The Mecca,’ Howard University",1,1
+Kanye West could now be worth more than $6 billion,1,1
+Kate McKinnon reminds us that nothing works in America in first 'SNL' of 2021,1,1
+Kate Middleton Debuts New Look in Video Call with Nurses from the Queen's Country Home,1,1
+"Kate Winslet on 'Ammonite,' and life during COVID",1,1
+"Kathleen Heddle, Canadian Olympic rowing champion, dead of cancer at age 55 | CBC Sports",1,1
+Katie Holmes looks stunning in beautiful throwback beach photo she shared on Instagram,1,1
+Kellyanne Conway Accused of Posting Topless Photo of Her 16-Year-Old Daughter on Twitter,1,1
+Kevin Love engaged to model girlfriend Kate Bock,1,1
+Khloe Kardashian has had three failed IVF attempts,1,1
+Kim Kardashian's Got One Rule Regarding Kanye's Visits With Her Kids,1,1
+Klete Keller Turns Himself in to Authorities for Capitol Riot Charges,1,1
+Kourtney Kardashian Is Dating Travis Barker: Source,1,1
+"Kris Jenner Weighed In On Kim Kardashian And Kanye West's Divorce, And My Ears Are Perked Up",1,1
+Kristy Swanson Roasted For Protesting Trump's Removal From ‘Home Alone 2’,1,1
+Kurtenbach: Steph Curry is the best basketball player on the planet right now,1,1
+Kush exits EastEnders in dramatic episode,1,1
+"Kyle Van Noy 'surprised, disappointed' after Dolphins release linebacker to free up cap space",1,1
+Kyle Young will miss today’s Ohio State basketball game against Oral Roberts in NCAA Tournament 2021,1,1
+Kyra Sedgwick Reveals Husband Kevin Bacon Gave Her a Quarantine Bikini Wax,1,1
+Kyrgios' outbursts catalyst for early turnaround,1,1
+"L.A. County continues to see decline in coronavirus cases, hospitalizations and deaths",1,1
+"L.A. County sees progress against COVID, stresses vigilance - Los Angeles Times",1,1
+LPL & LCK DFS Picks for 1/24: DraftKings & FanDuel League of Legends Daily Fantasy,1,1
+LVMH signs champagne deal with rap star Jay-Z,1,1
+Lacey Evans Pregnancy Rumors; Cody Talks WWE-AEW Event; Braun Strowman Returns,1,1
+"Lady Gaga offers $500,000 for return of dogs after thief steals them, shoots dog walker",1,1
+Lady Gaga’s Dog Walker Breaks Silence After Being Shot,1,1
+Lakers make it rain from deep in win over Kings,1,1
+"Lakers vs. Rockets - Game Recap - January 12, 2021 - ESPN",1,1
+Lamont Dozier Remembers Mary Wilson: 'She Was the Glue That Kept the Supremes Together',1,1
+Lampard sacked by Chelsea; Tuchel lined up,1,1
+Lana Condor and Noah Centineo on Whether Lara Jean and Peter Kavinsky Make It Through College,1,1
+"Lance Waldroup, star of Discovery's 'Moonshiners,' dies at 30",1,1
+"Larry Fitzgerald is officially a free agent, for the first time",1,1
+Larry King's estranged wife to contest his secret will,1,1
+Lauren Daigle hits no. 1 on Billboard charts for Dance/Electronic,1,1
+"LeBron posts, deletes tweet on police shooting",1,1
+LeVar Burton on the good that television can do,1,1
+"League of Legends' newest champion, Viego, is now live | Dot Esports",1,1
+Legend Andre Johnson Rips Texans & Easterby,1,1
+Legendary NFL head coach Marty Schottenheimer dies at 77,1,1
+"Leicester City vs. Chelsea, Premier League: Live blog; highlights",1,1
+Leon Cooperman on GameStop Reddit speculators: 'I'm not damning them' but it will 'end in tears',1,1
+"Leon Cooperman on GameStop, the Fed and the myth about the rich and taxes",1,1
+Let’s Talk Security Tech About President Biden’s Peloton Bike,1,1
+Lions agree to terms with Dan Campbell to become team's new head coach,1,1
+"Listen to 911 calls made after Selena was shot in Corpus Christi, Texas",1,1
+Listen to Rod Wave’s ‘SoulFly’ Album f| Polo G,1,1
+Listen to the Mars wind blow in these 1st sounds from the Perseverance rover,1,1
+"Little Things, Big Problems",1,1
+"Live Report - India versus England, 1st Test, Chennai, 1st day",1,1
+Live Updates: The Harry and Meghan interview with Oprah,1,1
+Longtime NBA Reporter and Analyst Sekou Smith Dies at 48 After Battle With COVID-19,1,1
+Longueuil police arrest man wanted in sex crimes case involving minor,1,1
+Lonzo Ball trade rumors: Five best fits for the former No. 2 overall pick,1,1
+Look: Ohio State Basketball Team Bus Is Stuck In Iowa,1,1
+Los Angeles Lakers sign former Phoenix Suns center Damian Jones,1,1
+"Los Angeles Lakers vs. Detroit Pistons Live Score and Stats - January 28, 2021 Gametracker",1,1
+Los números del Atalanta dan la razón a Gasperini: mejor sin el Papu Gómez,1,1
+Losing Your Simple Account? Some Alternatives Worth a Look,1,1
+"Loving his fit with the Jets, Lowry signs on for five more years",1,1
+MAGIC: LEGENDS Open Beta Goes Live Today! —,1,1
+MC Livinho publica vídeos de suposta perseguição e desaparece,1,1
+"MJardin Group, Inc. issues statement regarding Bridging Finance Inc.",1,1
+MP removed from Liberal caucus over allegedly 'dangerous' accusations about colleagues,1,1
+"Ma'Khia Bryant: Police Identify Officer Who Shot Teen, Release Video Footage",1,1
+MacKenzie Scott marries Seattle teacher after Bezos divorce,1,1
+Machine Gun Kelly and Pete Davidson Fell Off the Stage on SNL Last Night,1,1
+Madrid investigate hacking after deleting tweet,1,1
+"Magic vs. Warriors - Game Preview - February 11, 2021 - ESPN",1,1
+Magnitude 3.5 earthquake mildly shakes South Los Angeles - Los Angeles Times,1,1
+"Maine CDC reports 279 new cases of COVID-19, 1 new death",1,1
+Major subreddits are going dark to protest Reddit allegedly hiring a controversial UK politician,1,1
+"Man with at least 5 guns, body armor arrested after walking into Atlanta grocery store: Police",1,1
+"Manchester United vs. Liverpool score: Live FA Cup updates, highlights as rivals meet again",1,1
+"Maple Leafs acquire Galchenyuk from Hurricanes for Koshkov, Warsofsky",1,1
+Maple Leafs benefiting from Marner's new shooting mentality,1,1
+Maple Leafs vs. Oilers Odds & Picks: Buy Low on Edmonton on Thursday Night (Jan. 28),1,1
+"March Madness, explained",1,1
+Mark Cuban says he's worried about the market and 'hedged the heck' out of his portfolio,1,1
+Marriott CEO Arne Sorenson has died after pancreatic cancer fight,1,1
+"Mars rover sends back grinding, squealing sounds of driving",1,1
+Massachusetts wants to pull the plug on Robinhood,1,1
+MasterChef winner: Tom Rhodes crowned 17th champion,1,1
+Matt Damon Becomes The Butt Of Jokes On Twitter After NASA Lands On Mars: ‘No Signs’ Of Him Yet,1,1
+Matthew Stafford refused to be traded to this team while Lions shopped him: report,1,1
+Mavericks vs. Bucks Odds & Picks: Back Milwaukee to Continue Hot Streak,1,1
+Mavs HC Rick Carlisle: LaMelo Ball Looks Like Rookie Of The Year | SLAM,1,1
+McDavid has another multi-point night as Oilers beat Flames | Sports,1,1
+McDonald's Pokemon Cards are Selling Out Because of Scalpers - IGN,1,1
+"Meet Dogecoin, the meme-inspired currency now worth billions",1,1
+"Meet Earl and Buddy, the men behind Muff Waders",1,1
+"Mega Millions lottery: Did you win Friday's $750M Mega Millions drawing? Results, winning numbers.",1,1
+"Mega Millions lottery: Did you win Tuesday's $865M Mega Millions drawing? Results, winning numbers.",1,1
+Megan Fox Appears to Deny She Is Engaged to Machine Gun Kelly with a Close Up of an NSFW Ring,1,1
+Melatonina produzida no pulmão pode impedir infecção pelo coronavírus,1,1
+"Meteor shower visible tonight, strong storms return Friday",1,1
+Mia Farrow Says the 'Great Regret' of Her Life Is Bringing Woody Allen Into Her Family,1,1
+"Michelle Latimer serves CBC with notice of libel, while network cancels Trickster",1,1
+Michelle Pfeiffer On Her Role In 'French Exit',1,1
+Michigan Basketball headed to the Elite Eight after dominant performance,1,1
+Michigan Basketball: What to expect from UCLA in the Elite Eight,1,1
+"Michigan State basketball drilled by Maryland, 68-57, in Big Ten tournament",1,1
+"Michigan adds more than 8,400 new Covid-19 cases in one day, the most since December",1,1
+"Michigan basketball continues to roll through Big Ten, derailing Purdue, 70-53",1,1
+"Michigan basketball loses first game in sloppy, mistake-filled blowout at Minnesota, 75-57",1,1
+"Michigan reports declining coronavirus case rate for 8th straight day, 35 deaths between April 25-26",1,1
+Microsoft (MSFT) Raises Price of Xbox Live Gold Subscription,1,1
+Microsoft Teams: Moving files from Outlook into Teams just got a lot easier,1,1
+Microsoft and Google spar ahead of antitrust hearing on tech and the future of news,1,1
+Microsoft reports 17% revenue growth as cloud business accelerates,1,1
+Microsoft says the latest Xbox Series X update fixes controller disconnect issues,1,1
+Microsoft to buy AI firm Nuance Communications for about $16 billion in healthcare push,1,1
+"Microsoft to increase integration between Teams, Outlook, and Dynamics 365",1,1
+Mike Smith makes 32 saves as Oilers blank Canucks,1,1
+Mikie Sherrill says unidentified lawmakers led ‘reconnaissance’ tours ahead of Capitol attack,1,1
+Mila Kunis Admits She Told Ashton Kutcher Not to Invest in Uber or Bitcoin a Decade Ago,1,1
+Milwaukee-based Koss Corp's stock soars after being dragged into Reddit investing frenzy,1,1
+Mira Furlan Dies: ‘Babylon 5’ & ‘Lost’ Actress Was 65,1,1
+Missed the ‘Snow' Moon? Here's When and Where to See It Again This Weekend,1,1
+Missouri Sen. Josh Hawley derided by critics for ‘ignoring’ impeachment testimony,1,1
+Montreal vs. Calgary Top Six Minutes: Canadiens douse Flames,1,1
+"More Americans willing to get Covid vaccine, but many still hesitant",1,1
+"More Texans would support Matthew McConaughey for governor over Greg Abbott, poll shows",1,1
+"More retail pain ahead: UBS predicts 80,000 stores will close in the U.S. by 2026",1,1
+Morgan Wallen Says There Are 'No Excuses' After Video Surfaces of Singer Using the N-Word,1,1
+"Morre Maguito Vilela, prefeito licenciado de Goiânia",1,1
+Morrissey hits back at The Simpsons over parody: ‘Complete ignorance’,1,1
+Mount Etna's fiery eruptions seen from space (satellite photos),1,1
+Music Producer Phil Spector Dead at 81 from COVID-19,1,1
+Musician St. Vincent Has Dated Some of Your Favorite Hollywood Actresses,1,1
+Mystery guest takes over Jasper Park Lodge — the entire hotel — for 9-week booking | CBC News,1,1
+NASA Perseverance rover littered on Mars when it ditched its 'ejectable belly pan',1,1
+NASA To Test Rocket In The Next Step Towards Returning To The Moon,1,1
+NASA joins White House Climate Task Force,1,1
+NASA's InSight lander on Mars felt two relatively large quakes shake the Red Planet,1,1
+NASA's Ingenuity helicopter survives first freezing night on Mars,1,1
+NASA's Perseverance rover is ready to land on Mars!,1,1
+"NASA's TESS spacecraft has already found 2,200 possible planets",1,1
+NASA's mars perseverance rover successfully lands on the red planet,1,1
+NBA Play-In Tournament adds drama to trade deadline,1,1
+NBA Trades We Want to See Happen,1,1
+NBA YoungBoy Arrested In LA On Federal Warrant After He’s Hunted Down By K-9 Unit On Foot,1,1
+NBA star Kevin Durant pulled from game twice due to Covid-19 concerns,1,1
+"NC Rep. Madison Cawthorn, who spoke at rally before Capitol riot, calls violence 'sickening'",1,1
+NFL Playoffs Divisional Round weather forecast: Here's what to expect for each playoff game,1,1
+NFL draft: Who sent Zach Wilson a ‘Welcome to New York’ text after the Sam Darnold trade?,1,1
+NFL’s Mason Rudolph Is Dating Eugenie Bouchard After Hannah Ann Rumors,1,1
+"NHL Rumors: Penguins, Canucks, Maple Leafs, Rangers, More",1,1
+NHL scores: Brandon Sutter's hat trick leads Canucks over Senators,1,1
+NOK Stock Price and News: Nokia Oyj falls as short squeeze momentum fades to close the week,1,1
+Naked Brand Group Ltd (NAKD) Stock: Is It a Good Pick?,1,1
+"Naomi Osaka advances, saves butterfly in Australian Open's best moment",1,1
+National Rifle Association files for Chapter 11 bankruptcy protection,1,1
+"National Signing Day 2021: Alabama, USC and Texas A&M among winners as new staffs struggled",1,1
+Netflix Original Anime 'Yasuke' Trailer Shows Us The Real Afro Samurai,1,1
+"Netflix tops 200 million subscribers with year-end flourish, stock jumps 10%",1,1
+Netflix's New Releases Coming in February 2021,1,1
+"Netflix’s The White Tiger Is a Brutal, Powerful Tale of Ambition, Class, and Corruption",1,1
+Netflix’s ‘Fate: The Winx Saga’ Stretches Fanfic Tropes Past Their Limits: TV Review,1,1
+Nets versus 76ers Odds and Picks,1,1
+Nets vs. Cavaliers: 3 things we learned from Brooklyn's surprising loss,1,1
+"Nets vs. Thunder odds, line, spread: 2021 NBA picks, Jan. 29 predictions from proven computer model",1,1
+Nets' LaMarcus Aldridge announces he's retiring from NBA,1,1
+New Double Mutant Coronavirus Variant From India Found In California For First Time,1,1
+New NASA study challenges beliefs about water on Mars,1,1
+"New videos emerge tying Andy Biggs to 'Stop the Steal,' but he's pointing to antifa",1,1
+"New year, new offense: Reds mash in victory",1,1
+Newcastle v West Ham plus EFL latest: Saturday clockwatch – live!,1,1
+Nicolas Cage Battles a Robot Ostrich in New Clip from 'Willy's Wonderland' - Bloody Disgusting,1,1
+"Nicolas Cage, 56, ties the knot for the 5TH TIME in Las Vegas",1,1
+Nike's new sneaker innovation? No hands required,1,1
+No password required: Mobile carrier exposes data for millions of accounts,1,1
+"No. 14 Iowa 74, Penn State 68: Here's what we learned",1,1
+Noah Green: 5 Fast Facts You Need to Know,1,1
+"Nokia’s stock soars toward a record gain on record volume, for no apparent reason",1,1
+Nomzamo Mbatha Could Be Your Accountant,1,1
+Non-toxic yet potentially dangerous. What is liquid nitrogen and when is it deadly?,1,1
+Norway reviewing deaths of frail and elderly patients vaccinated against Covid-19,1,1
+Norwegian Cruise Line CEO on how the company's cruise ships can safely set sail once again,1,1
+Note On A WWE Network Feature That Won't Be Available On Peacock - Wrestling Inc.,1,1
+Noted character actor Peter Mark Richman dies at 93,1,1
+Novavax says Covid vaccine is more than 89% effective,1,1
+Nuggets' Jamal Murray to undergo MRI after knee injury against Warriors,1,1
+OCGN Stock: Why Ocugen Shares Are Rocketing Higher Again Today,1,1
+OPINION: Why schools should rethink Dr. Seuss,1,1
+Observations from Bayern Munich’s 1-0 win over Tigres UANL in the Club World Cup Final,1,1
+Ohio State QB Justin Fields plays through hip pointer injury in loss against Alabama,1,1
+Ohio State basketball’s complete game leads to a convincing 79-62 win over Michigan State,1,1
+Oilers considering amateurs to fill third goalie spot,1,1
+Oklahoma House passes bill allowing legislature to declare federal laws unconstitutional,1,1
+Oklahoma's Spencer Jones Nearly Loses An Eye After Getting In Fight At Bar,1,1
+"On Lag B'Omer, Israel's inflamed political and environmental disasters",1,1
+One ticket sold in Florida wins a $238 million Powerball jackpot,1,1
+Only one US stock has done better than Amazon in the Jeff Bezos era,1,1
+Ontario announces $1.2 billion in funding for province's hospitals to help with COVID-19 challenges,1,1
+Ontario announces plans to 'rapidly accelerate' vaccine rollout | News,1,1
+"Ontario shutting down outdoor recreation, gatherings as COVID-19 cases climb in Simcoe Muskoka",1,1
+Ontario to announce today when students in parts of province will return to in-person learning,1,1
+"Opinion | HBO's 'Tiger' takes a deep dive on Woods's daddy issues, but lacks nuance",1,1
+"Opinion: The Doge Days Are Over. You Invested in Dogecoin, Now What?",1,1
+Oprah Reflects on Sidney Poitier's Groundbreaking Career in Hollywood,1,1
+Oregon warns of ‘fourth surge’ of COVID-19 as vaccination continues,1,1
+"Osaka def. Serena, advances to Australian final",1,1
+"Osaka sails into semis, awaits Serena or Halep",1,1
+Oscar 2021 nominees react to their nominations for the 93rd annual Academy Awards,1,1
+Oscar nominations 2021: Peter Travers on the snubs and surprises,1,1
+Oscars 2021: Yuh-Jung Youn wins best supporting actress for 'Minari',1,1
+"Outaouais gyms, restaurants to reopen Monday | CBC News",1,1
+Over 200 tickets handed out across Quebec on the first night of curfew,1,1
+Ozone-destroying CFCs could make late-21st-century comeback,1,1
+"P.1 variant, thought to be more contagious than other COVID-19 variants, confirmed in Chicago",1,1
+PM to shuffle cabinet with Navdeep Bains retiring from politics,1,1
+Pakistan Court Orders Release Of Man Accused Of Killing 'Wall Street Journal' Reporter,1,1
+Palm Sunday: Be the anointing woman,1,1
+Palmeiras vs. Santos score: Copa Libertadores final won with dramatic late Breno Lopes header,1,1
+Pamela Anderson calls on Trump to pardon Julian Assange,1,1
+Parler is back online after a month of downtime,1,1
+"Party with J.Lo, dinner with Bono and the inside stories of Conor McGregor",1,1
+Passan: 45 disastrous minutes that sunk Mariners CEO Kevin Mather,1,1
+Patrick Mahomes injury FAQ: What to know about the Chiefs' QB's turf toe,1,1
+Patrick Peterson inks one-year deal with Minnesota Vikings,1,1
+Patriots considered trading for Stefon Diggs prior to blockbuster Vikings-Bills deal,1,1
+"Paul Ritter, ‘Chernobyl’ and ‘Friday Night Dinner’ Star, Dies at 54",1,1
+Peaky Blinders star Helen McCrory dies aged 52 from cancer,1,1
+Pence pushes false election fraud claims in denouncing Democratic reform bill,1,1
+"Penguins hire Ron Hextall, Brian Burke to lead front office",1,1
+Pep Guardiola sticks with Steffen for Manchester City’s FA Cup semi-final,1,1
+Perseverance rover and Ingenuity helicopter pose for buddy picture with epic Mars selfie,1,1
+Pete Davidson’s Latest Relationship Rumor Links Him to Bridgerton’s Phoebe Dynevor,1,1
+Phoebe Bridgers Announced as SNL Musical Guest for February 6,1,1
+"Phoebe Bridgers on 'SNL': Yes, It's OK for Women to Smash Guitars",1,1
+Pink Moon 2021: How to see the supermoon at its biggest and brightest,1,1
+Pistons vs. Heat Preview: Battling the Heat in Miami,1,1
+Pixar’s ‘Luca’ Trailer Is a Heartwarming Italian Vacation With a Sea Monster Twist,1,1
+Polk County to delay expanding vaccine eligibility,1,1
+Portland Trail Blazers fall 125-104 to San Antonio Spurs: Live updates recap,1,1
+Post sports reporters remember when COVID-19 took over: ‘I had no clue’,1,1
+Powerful earthquake hits Japan near Fukushima,1,1
+President Joe Biden is holding first press conference. Here's what he may get asked.,1,1
+Price of dogecoin rises by 50% following Elon Musk tweet,1,1
+Prince Harry and Meghan Markle Are Officially No Longer Working Members of the Royal Family,1,1
+Prince Harry joins Silicon Valley mental health start-up,1,1
+Prince Philip funeral 'a profound chance for Queen to say goodbye',1,1
+Princess Anne Gives Rare Look Inside Her (Relatably Cluttered!) Living Room,1,1
+Printemps CEO Jean-Marc Bellaiche Outlines Plans to Woo Locals,1,1
+Pristine interstellar comet came from a system containing giant planets,1,1
+Priyanka Chopra Was In 'Complete Shock' That Nick Jonas Proposed To Her Two Months Into Dating,1,1
+"Protesting Modi's agriculture laws, farmers storm India's Red Fort by the thousands",1,1
+Proud Boys organizer Joe Biggs charged in Capitol riot,1,1
+Providence Therapeutics announces first subject has been dosed in COVID-19  vaccine trial,1,1
+Putin warns of 'quick and tough' Russian response for foes,1,1
+Putrid Oscars ratings throw telecast’s future in doubt,1,1
+Quando Rondo Shot at in Georgia,1,1
+Quebec researchers say they have found an effective drug to fight COVID-19,1,1
+"Queen Elizabeth to host Biden, world leaders ahead of G7 summit | TheHill",1,1
+"REPLAY: Six new COVID-19 cases confirmed in P.E.I. on Feb. 27, 2021 | The Guardian",1,1
+Rachel Lindsay Deletes Instagram After Harassment from Bachelor Nation amid Ongoing Controversy,1,1
+Rami Malek Recalls Emotional Moment with Robin Williams While Filming Night at the Museum,1,1
+Randall Park Learned He Was Vaccinated Against COVID-19 After Participating in Trial,1,1
+"Randy Parton, country singer and Dolly Parton's brother, dies at 67",1,1
+Raptors Game Thread: Toronto Raptors vs. Orlando Magic,1,1
+Raptors bounce back to defeat Heat in blowout,1,1
+Raptors make Hornets pay with three-ball for first two-game win streak of season,1,1
+Rare pink supermoon lights up the night skies,1,1
+"Raul Castro resigns as Communist chief, ending era in Cuba",1,1
+"Ravi Zacharias Hid Hundreds of Pictures of Women, Abuse During Massages, and a Rape Allegation",1,1
+Real Madrid center back Éder Militao steps up at the right time,1,1
+"Real Madrid vs. Liverpool - Football Match Report - April 6, 2021 - ESPN",1,1
+"Real unemployment rate closer to 10 percent, says Fed Chair Jerome Powell",1,1
+Reclusive neutron star may have been found in famous supernova,1,1
+"Recovered Covid patients have been reinfected with new virus strains, WHO says",1,1
+Red Fort violence: Deep Sidhu arrested by Special Cell,1,1
+Reddit DOWN: Is Reddit down right now? Is Reddit not working? Server status latest,1,1
+Remember the Alamo? Donald Trump heads to Texas to defend legacy tarnished by Capitol riot,1,1
+"Renfrew County moving out of stay at home order on Wednesday, February 10th",1,1
+Rep. John Katko becomes first House Republican to back Trump impeachment,1,1
+Report: Cavaliers agree to trade Kevin Porter Jr. to Rockets,1,1
+Report: Evan Fournier dealt to the Boston Celtics,1,1
+Report: Former Longhorn Jarrett Allen involved in four-team blockbuster deal,1,1
+Report: Patriots add receiver Kendrick Bourne,1,1
+Report: Three NFL officials will not return,1,1
+"Reports: Rockets trade Harden to Nets, acquire Oladipo from Pacers",1,1
+Resurgent Manchester United back on top of Premier League,1,1
+Review: Bob Odenkirk livens up formulaic 'Nobody' as a middle-aged 'John Wick' type,1,1
+"Rick Pitino is back in the NCAA Tournament with his new team, Iona",1,1
+Ricki Lake reveals how shaving her head helped her find love,1,1
+Riley Keough Is Becoming a Death Doula After Brother Benjamin’s Suicide,1,1
+Ring Video Doorbell Pro 2 leaks out with ‘3D motion detection’,1,1
+Ripple Responds to SEC Lawsuit Over XRP Sales - CoinDesk,1,1
+"Rising Tide: Powerful U.S. Growth Set To Lift Global Economy, IMF Says",1,1
+"Rivers retires, ends 'childhood dream' NFL career",1,1
+"Rob Gronkowski makes up mind after threatening to leave Bucs, Tom Brady",1,1
+Robinhood is facing dozens of lawsuits over GameStop stock freeze,1,1
+Robinhood: What to know about the app at the center of the GameStop drama,1,1
+Roblox goes public Wednesday — here's how indie game makers turned it into a $30 billion company,1,1
+"Rockets vs. Pelicans - Game Recap - January 30, 2021 - ESPN",1,1
+"Rockets vs. Wizards odds, line, spread: 2021 NBA picks, Jan. 26 predictions from model on 69-40 roll",1,1
+Rootstown native Jessica Eye to compete in UFC 257 Saturday night,1,1
+Rosa Parks and Equal Rights,1,1
+Rosario Dawson Accompanies Boyfriend Senator Cory Booker at Joe Biden's Presidential Inauguration,1,1
+"Russ Martin, Dallas-Fort Worth radio show host, found dead in his home, police say",1,1
+Ryan Giggs charged with assault on ex-girlfriend,1,1
+SEC accuses A.T.N.T of selectively sharing investment info with analysts,1,1
+SNDL Stock: Sundial Growers Flies High on Reddit Stocks Rally,1,1
+SNDL Stock: Why Sundial Is a Buy Despite the Artificial Rally,1,1
+SPRWF Stock: Why the Supreme Cannabis Company (FIRE) Is Soaring Today,1,1
+Sacha Baron Cohen Recalls 'Incredibly Awkward' Moment at Virtual Golden Globes After Winning,1,1
+"Salesforce revenue up 20% from last year, forecast calls for similar growth rate",1,1
+Samsung Galaxy A52 and A72 leaks hint at high refresh rate screens,1,1
+Samsung’s iTest offers a look at Galaxy Android on iPhone,1,1
+"Sarah Paulson “Can’t Stop, Won’t Stop” Gushing About Holland Taylor",1,1
+Sarah Thomas to be 1st woman to officiate at SB,1,1
+Sasse votes to convict Trump in former president's second impeachment trial,1,1
+Saved by the Bell’s Dustin Diamond Hospitalized With Undisclosed Illness,1,1
+School of Rock star responds to viral Jack Black speech from the movie,1,1
+"Schwab, Fidelity, E-Trade, Others Face Trading Platform Glitches | ThinkAdvisor",1,1
+Scientists find clump of black holes inside the heart of globular cluster (video),1,1
+Scientists stunned by fossils found deep beneath Greenland's ice sheet,1,1
+Sea shanties are all over TikTok. Here's why,1,1
+Seahawks fire Brian Schottenheimer,1,1
+Seahawks listening to Russell Wilson offers? Wild offseason QB carousel spinning at another level,1,1
+Senate confirms Pete Buttigieg as transportation secretary,1,1
+"Senate passes COVID-19 plan, clearing way for nearly $2 trillion in relief",1,1
+Seoul: North Korea fires 2 projectiles into sea,1,1
+Serena Williams can’t keep track of all of her trophies,1,1
+Seth Rogen Logged On to Do Pottery and Hold Ted Cruz Accountable,1,1
+"Sevilla vs. Barcelona: La Liga live stream, TV channel, how to watch online, news, odds",1,1
+Sharon Osbourne shouts down co-host on 'The Talk' during emotional defense of Piers Morgan,1,1
+Sharon Stone Says Martin Scorsese and Paul Verhoeven Gave Her the Best Advice of Her Acting Career,1,1
+"Sheffield United 0, Liverpool 2: Man Of The Match",1,1
+"Sheffield United vs. Tottenham Hotspur 2021: Premier League match time, TV channels, how to watch",1,1
+Short squeeze on silver from Reddit’s “WallStreetBets”,1,1
+Short-Term Action Items for Lloyd Austin’s Pentagon - War on the Rocks,1,1
+Should Capitol Rioters Be Charged With Seditious Conspiracy?,1,1
+Six former Man Utd players who also played for Leeds United,1,1
+Snap beats expectations but stock falls on light Q1 forecast,1,1
+"Snow squall warning issued as high winds batter Edmonton, central and northern Alberta",1,1
+Snowfall warning now in effect for Halifax area (update),1,1
+Snowpiercer season 2 review: Sean Bean's campy villain stands out,1,1
+Soleil Moon Frye says making the 'Punky Brewster' revival 'felt like lightning in a bottle',1,1
+"Some ineligible self-employed CERB recipients won't be forced to repay, government says",1,1
+"Sony's FX3 is a compact $3,900 camera for filmmakers",1,1
+Souper Cubes Shark Tank Update: Where Is Souper Cubes Now?,1,1
+Source: Brady apologized to Mathieu with text,1,1
+Sources: Broken wrist likely ends LaMelo's season,1,1
+Sources: Fins deal Number 3 to SF; get Eagles' Number 6,1,1
+Sources: Man City still working on Messi transfer,1,1
+Sources: Vols' Pruitt fired following investigation,1,1
+Sources: Watson has asked Texans to trade him,1,1
+South Bay’s Rep. Ted Lieu presents arguments at Trump impeachment trial,1,1
+Southeast Asians can finally see themselves in a Disney movie,1,1
+SpaceX Scrubs High Altitude Test of SN15 Starship Prototype,1,1
+SpaceX loses another Starship prototype as landing sequence fails,1,1
+"SpaceX targets Monday launch of additional Starlink satellites, announces next crew mission",1,1
+SpaceX's Crew-1 astronauts break 47-year US space record,1,1
+SpaceX's Starship SN10 prototype aborts first launch attempt. May try again today.,1,1
+Spacecraft Named For 'Hidden Figures' Mathematician Launches From Virginia,1,1
+Spartan Bioscience says Health Canada approves rapid COVID-19 test | CBC News,1,1
+Spoilers! Rosamund Pike discusses that wild 'I Care a Lot' ending: 'It gives you everything',1,1
+"Spotify Car Thing is Here and Free in the US, With Some Limitations",1,1
+Spotify confirms it's (finally) testing a live lyrics feature in the US,1,1
+Spotify's $80 Car Thing device for drivers is actually real and -- for now -- free,1,1
+Square Earnings: What Happened,1,1
+"St. Vincent warns of volcanic eruption, orders thousands to evacuate",1,1
+Stadia now comes pre-installed on all new Chromebooks - 9to5Google,1,1
+Stardew Valley is now a cooperative board game,1,1
+Statements on the Status of Caris LeVert,1,1
+Stem Cell Fraud Case Sparks Concern Over Unmatched Docs' Role,1,1
+Steve Harvey Jokes He Has 'Hatred' for Lori Harvey's BF Michael B. Jordan,1,1
+Stock Market Today With Jim Cramer: Tesla and Bitcoin,1,1
+Stock market news today: Dow and S&P 500 updates,1,1
+"Stocks jump at the open as Coinbase rises, Americans go shopping",1,1
+"Stocks soar as GameStop, AMC get pounded",1,1
+String theorist Michio Kaku: 'Reaching out to aliens is a terrible idea',1,1
+Stu Cowan: Canadiens newcomer Tyler Toffoli a true throwback,1,1
+"Subway's tuna sandwiches don't actually contain tuna, lawsuit claims",1,1
+Suicide Squad Cast: What The Actors From The 2016 Movie Are Doing Now,1,1
+Sundial Growers Announces US$100 Million Registered Offering,1,1
+Super Bowl trailer for Marvel's The Falcon and the Winter Soldier gets punchy,1,1
+"Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why",1,1
+Surreal scene at Hard Rock Stadium grim reminder of difficult college football season,1,1
+Suspect in Atlanta massage parlour shootings that left 6 Asians dead charged with murder,1,1
+Sweet 16! Park City's Wyatt Pike Makes It To Another Round of American Idol,1,1
+TELUS International announces pricing of upsized initial public offering,1,1
+TV Movie Review: Lifetime's Salt-N-Pepa Biopic,1,1
+Team Biden surprises with positive vaccine news,1,1
+Temecula Road Joke About Their Bachelor Performance: They Make Out 'Two Feet Front of You',1,1
+Tesla (TSLA) Lowers Prices,1,1
+Tesla Earnings: What Happened,1,1
+Tesla stock suffers biggest fall since September 2020,1,1
+Tesla's Bitcoin Buy May Lead to Widespread Corporate Adoption - Eventually: Wedbush - CoinDesk,1,1
+Tested: President Ronald Reagan’s Cadillac Limousine Goes Big,1,1
+Texans set to hire Ravens assistant David Culley as head coach,1,1
+The 'scar' on Drew Brees' face isn't actually a scar,1,1
+The Bachelor's Cluelessness About Race Comes To A Head In Season Finale,1,1
+The Bachelor: Emmanuel Acho to Replace Chris Harrison as Reunion Host,1,1
+The Bruins are doing it again. That may be a mistake.,1,1
+The Canadiens are finally getting help from their power play,1,1
+The Central San Andreas creeps along without a major earthquake - Temblor.net,1,1
+The Dig review: Netflix's archaeological drama is imperfectly charming,1,1
+"The Fate of Palantir Stock Remains up in the Air, Says Analyst",1,1
+The Federal Reserve suffers widespread disruption to payment services,1,1
+"The Heels Have Eyes, and Novak Djokovic Knows and Sees All",1,1
+The Ignominious Deceits of Congressman Cawthorn,1,1
+The RTX 3060 Will Be the First of Nvidia's New Graphics Cards to Get a Frame Rate Boost,1,1
+The Self-Hating Candace Owens Becomes Mother To A Black Baby Boy,1,1
+"The Sports Report: UCLA, USC advance in NCAA men's basketball tournament",1,1
+The Super League That Wasn’t,1,1
+The UAE’s Mars mission is more about hype than science,1,1
+The Weeknd Explained Why His Face Has Been Covered in Bandages for Months,1,1
+The Weeknd Once Again Shows Off His Extreme Plastic Surgery Look,1,1
+"The Weeknd, Drake and Oatly's CEO win the Super Bowl of memes on social media",1,1
+The first 'Jeopardy!' without Alex Trebek: How did Ken Jennings do as host?,1,1
+The iconic Mr. Potato Head gets a 21st-century rebrand,1,1
+The largest asteroid flyby of the year is Monday: How to watch,1,1
+The teachers of Star Académie amaze us - Inspired Traveler - Latest News,1,1
+The torpedo of stan Twitter hurts everyone,1,1
+The views from the NHL’s Lake Tahoe rink are incredible,1,1
+The writing’s on the wall for Google Stadia,1,1
+TheWolverine - Michigan Basketball: Injuries Likely To Prevent Livers vs. Young Rematch,1,1
+These sea slugs cut off their own heads and grow an entirely new body,1,1
+"Third stimulus check: How soon might you receive a $1,400 check?",1,1
+This Discount on Alibaba Stock Won’t Last Forever,1,1
+This Masters is about a champion who is missing and what is ever-so-slowly returning,1,1
+"This Salmonella Outbreak is Dangerous to You and Your Pets, CDC Says",1,1
+This is how a curfew in Ontario might work if similar to the one in Montreal,1,1
+Thomas Middleditch Accused of Misconduct as Allegations Emerge About Goth Club,1,1
+Thomas loses Ralph Lauren as sponsor after slur,1,1
+"Three things we learned from Arsenal - Leeds: Recap, video highlights",1,1
+Tiger Woods’ girlfriend Erica Herman spotted visiting him at the hospital,1,1
+Tim Hortons Launches Digital Contest ‘Roll Up To Win’,1,1
+Tim Scott: Republican senator who gave rebuttal speech to Biden,1,1
+Time is running out to enter the Inspiration4 contests for a SpaceX rocket trip,1,1
+Titans To Sign OLB Bud Dupree,1,1
+"Today begins 1-20-21, the beginning of a string of palindrome dates",1,1
+Today in History: 'The Cat in the Hat' by Dr. Seuss was released in 1957,1,1
+"Tom Jones: “I wanted to be a man, desperately”",1,1
+Tom Llamas Signs Off From ABC News Amid Reports He’s Headed To NBC,1,1
+Tonight's TV: Keeping Faith and I Can See Your Voice,1,1
+Toronto Blue Jays vs. New York Yankees: Spring training kicks off!,1,1
+"Toronto Raptors vs. Detroit Pistons: Live score updates, news, stats and highlights",1,1
+"Toronto Raptors vs. Orlando Magic: Live score, updates, news, stats and highlights",1,1
+Toronto woman dies after being stranded on BC mountain overnight,1,1
+Tortorella benches Laine: 'Last thing I want to do',1,1
+Trade destinations for Philadelphia Eagles quarterback Carson Wentz,1,1
+"Trade rumor rankings: Andre Drummond, Lonzo Ball and more",1,1
+"Trail Blazers vs. Rockets - Game Recap - January 28, 2021 - ESPN",1,1
+Trailer - Bonnie and Clyde,1,1
+Trevor Noah explains GameStop as bubbly Margot Robbie from 'The Big Short',1,1
+Trump commutes Kodak Black’s sentence on federal weapons charges,1,1
+"Trump pardons former aide Steve Bannon, not himself in final hours of presidency",1,1
+Trump said Meghan Markle is ‘no good’ following bombshell Oprah interview,1,1
+"Trump tapped attorney from Northeast Philadelphia to push claims of election fraud, report says",1,1
+Trump's been impeached again. What's next?,1,1
+Tsitsipas upsets Nadal in Aussie Open 5-setter,1,1
+Tulsi Gabbard Launches A Podcast,1,1
+Tumulto durante peregrinação deixa pelos menos 44 mortos em Israel,1,1
+Tune-In Tidbits: Clippers vs. Hawks on NBA TV | NBA.com,1,1
+"Twins Maurkice, Mike Pouncey retire from NFL",1,1
+Twitch is sending out personalized 2020 recap emails starting today | Dot Esports,1,1
+Twitter Experiences Widespread Outage,1,1
+Twitter loses $5 billion in market value after Trump is permanently barred from the platform,1,1
+Twitter remembers Elijah McClain as Colorado shooting suspect is arrested without incident,1,1
+Twitter suspends Republican Rep. Marjorie Taylor Greene's account - Los Angeles Times,1,1
+Two top-tier tackles cut by Chiefs now on Bears radar,1,1
+Two women dead in four-vehicle crash on QEW in Burlington,1,1
+U.K. Coronavirus Variant Spreading Rapidly in U.S. as Cases Double Every 10 Days,1,1
+UAE's 'Hope' probe to be first in trio of Mars missions,1,1
+UFC 257 live blog: Makhmud Muradov vs. Andrew Sanchez,1,1
+"UFC 257 results, highlights: Dustin Poirier stuns Conor McGregor with second-round knockout",1,1
+UFC Vegas 18 live blog: Frankie Edgar vs. Cory Sandhagen,1,1
+UN: At least 18 killed by Myanmar forces in several cities,1,1
+"UNC Basketball vs. Duke: How To Watch, Cord-Cutting Options and Tip-Off Time - Chapelboro.com",1,1
+UNC Basketball: Walker Kessler could be headed to Gonzaga,1,1
+"US Inflation Rate Accelerates in February, Could Go Higher as Economy Reheats",1,1
+US Rep. Eric Swalwell compares Trump to Osama bin Laden,1,1
+US airline stocks rise on hopes for a travel rebound,1,1
+US carries out its 1st execution of female inmate since 1953,1,1
+US rapper DMX dies aged 50 following heart attack,1,1
+UWMC Stock: Can r/WallStreetBets Send RKT Rival UWM to the Moon?,1,1
+Uber losses narrow as delivery growth outpaces fall in ride-sharing,1,1
+"United Airlines flies to JFK for the first time since 2015, taking advantage of pandemic lull",1,1
+United Arab Emirates Hope Mars probe enters orbit and makes history,1,1
+Unprecedented silver demand forcing bullion deals to stop taking orders before market opens,1,1
+"Unproven Stuart Skinner to get the start for Oilers vs. Ottawa tonight, reports Ryan Rishaug",1,1
+Update: Rescue crews begin lifting 32 Crew Members Off Atlantic Destiny,1,1
+"Utah coronavirus cases continue to fall, but deaths on the rise",1,1
+"Vaccine not cause of death in man who had COVID-19 shot, officials say",1,1
+"Valencia vs. Barcelona free live stream (5|2|21): How to watch La Liga, time, channel",1,1
+Valve is still letting bots invade one of its longest-running games,1,1
+"Video: Ben Askren facepalms Jake Paul, who shoves him with back turned at Triller presser",1,1
+Viggo Mortensen on His Favorite Roles and Seeing the Miracle on Ice in Person,1,1
+Violent Senegal protests supporting opposition leader kill 1,1,1
+"WFRV Local 5 - Green Bay, Appleton",1,1
+WFT releases QB Smith after comeback season,1,1
+WR Josh Gordon suspended indefinitely again,1,1
+WSPA 7News,1,1
+Waiting for the 3rd stimulus payment? Here's how to track it online,1,1
+Walgreens to switch second dose of Pfizer COVID-19 vaccine to CDC's recommended timing,1,1
+"Walgreens, CVS, and other pharmacies now offering COVID-19 vaccines: Here's what you need to know",1,1
+"Wall, Russ resume trash talk, sparking double T's",1,1
+"WandaVision Episode 4: More Answers, More Questions - Review",1,1
+WandaVision: Why Evan Peters Replaced Aaron Taylor-Johnson as Quikcsilver,1,1
+WandaVision’s Kat Dennings Recalls The ‘Crazy’ Secrecy For Her Thor Audition,1,1
+Warren Buffett: 4 Life Choices Separate the Achievers From the Dreamers,1,1
+Warren man reports being stabbed while playing video games,1,1
+"Warriors vs. Celtics: How to watch, schedule, live stream info, game time, TV channel",1,1
+"Warriors vs. Knicks odds, line, spread: 2021 NBA picks, Jan. 21 predictions from model on 68-39 roll",1,1
+"Warriors vs. Suns odds, line, spread: 2021 NBA picks, Jan. 28 predictions from proven computer model",1,1
+"Watch Bad Bunny Dive From the Top Rope, Perform at the WWE Royal Rumble",1,1
+Watch Billie Eilish Perform “everything i wanted” at Grammys 2021,1,1
+Watch Bruce Springsteen Perform “Land of Hope and Dreams” at Biden Inauguration Event,1,1
+Watch Carey Mulligan in Revenge Thriller ‘Promising Young Woman’ Online,1,1
+Watch FKA twigs’ Video for New Song With Headie One and Fred again..,1,1
+Watch Foo Fighters Perform “Times Like These” at Biden Inauguration Event,1,1
+"Watch Kate Hudson's Daughter Rani Rose, 2, Fight Mom for Her Ice Cream in Hilarious Video: 'Oh Boy'",1,1
+Watch Live text commentary for F1 Emilia Romagna GP Live Commentary and Updates - FP3 and Qualifying,1,1
+Watch our RADIO.COM LIVE Check In with Silk Sonic featuring Bruno Mars and Anderson Paak,1,1
+Watch this tiny crustacean make some of the fastest snaps on Earth,1,1
+WatchOS 7.4: New features coming to your Apple Watch,1,1
+We Guarantee 'Good Doctor' Fans Don't Know These Facts About the Show's Cast,1,1
+We're about to learn a little more about these Knicks,1,1
+WeWork Is Finally Going Public Thanks to Merger With BowX Acquisition,1,1
+Weather wreaking havoc on roads; wind warnings in place across Saskatchewan,1,1
+"Wesley Allen Beeler arrested near Capitol with gun, 500+ rounds of ammo: Capitol Police",1,1
+Wham bam Van-Tam! Matt Hancock jabbed by deputy chief medical officer,1,1
+What Is Victoria’s Real Job? 5 Things to Know About the Bachelor’s ‘Queen’,1,1
+What Patrick Mahomes told Tom Brady after Super Bowl 2021,1,1
+What To Know About Dave Portnoy And The New BUZZ Social Media Sentiment ETF,1,1
+What animal has the largest ears?,1,1
+"What happened to Illinois against Loyola Chicago, and what's next for the Illini?",1,1
+What happens when you replace a human gene with its Neanderthal version?,1,1
+"What is Dogecoin, and Why Are People Buying It?",1,1
+What is the Movie ‘Mank’ About? Plot Explained,1,1
+"What time are NFL playoff games today? TV schedule, channels for Saturday's divisional round",1,1
+What we know about Monday's Canadiens-Oilers postponement,1,1
+What you need to know about COVID-19 in B.C. for Feb. 4 | CBC News,1,1
+What's the 25th Amendment and how does it work?,1,1
+When Clubhouse Runs Out of Money,1,1
+Where is Oral Roberts located? FAQs about Ohio State's first-round NCAA Tournament opponent,1,1
+Where to buy AMD Radeon RX 6700 XT: find stock here,1,1
+Which places will require proof of a COVID-19 vaccine? And should they?,1,1
+White House says President Biden is '100% fine' after he tripped boarding Air Force One,1,1
+Who Is 'When Calls The Heart's' Erin Krakow Dating?,1,1
+Who is 'Southern Charm' star Madison LeCroy? 5 things to know about the reality star,1,1
+Who is Jill Biden? Meet America's next first lady,1,1
+Who is Ralph Bohner from 'WandaVision'?,1,1
+"Who is Robert Aaron Long, suspect in deadly Georgia spa shootings?",1,1
+Why Aurora Cannabis's Stock is Trading Higher Today | Benzinga,1,1
+Why I Support Hrithik’s Legal Battle Against Kangana,1,1
+"Why Michael Jordan is still the GOAT of GOATs, not Tom Brady",1,1
+Why Mystery Still Shrouds Singer Sam Cooke’s Shooting Death Nearly 60 Years Later,1,1
+Why Netflix's Cecil Hotel series 'Crime Scene' is a misstep - Los Angeles Times,1,1
+Why Nio Stock Is Hotter Than Ever,1,1
+Why Priyanka Chopra Wasn't at Husband Nick Jonas's 'SNL' Hosting Debut,1,1
+Why You Rarely Hear About Lindsay Lohan Anymore,1,1
+"Why an Elon Musk tweet led to a 5,675% surge in Signal Advance’s stock",1,1
+Why is Google Doodle honouring the late singer Luther Vandross?,1,1
+Why is Michael Strahan at home? 'Good Morning America' host tests positive for COVID,1,1
+Why stop at a SPAC? Colin Kaepernick should have a mutual fund.,1,1
+Will the Canucks make the playoffs? Opinions are split among pundits and analytics,1,1
+Will you get the third stimulus check? Here's how to know.,1,1
+William Shatner Turns 90: Revisiting Favourite Moments From the Canadian Acting Legend’s Career,1,1
+"Winter Storm Update: Outdoor subway service suspended, mass transit impacted by massive snowstorm",1,1
+"Woman dead, 6 injured after stabbings at library in Canada",1,1
+Woody Allen Interview From CBS News’ ‘Sunday Morning’ Will Debut on Paramount Plus,1,1
+Workhorse Group drops nearly 50% after EV company is passed over for USPS contract,1,1
+World’s oldest DNA sequenced from million-year-old mammoths,1,1
+Wyoming GOP censures Rep. Liz Cheney over impeachment vote,1,1
+XRP Hits Two-Month Price High in Wake of Ether Rally,1,1
+Yellen Tells Lawmakers That American Workers Would Be Her Focus,1,1
+You Might've Missed Brad Pitt's Shout-Out to Leonardo DiCaprio at the 2021 Oscars,1,1
+"You're Twice as Likely to Catch COVID If You Have Dementia, Study Says",1,1
+YouTube TV pulled from Roku amid spat with Google,1,1
+"Your Papers, Please: New York Introduces “Vaccine Passport” For Events, Businesses",1,1
+ZSAN Stock: 9 Things to Know About Zosano Pharma as Shares Fly Higher,1,1
+[Update: March 19] Is Instagram down and not working again? Users say app not refreshing,1,1
+area adds 121 new reported COVID-19 variant cases in one day,1,1
+iOS 14.5 no longer blocks web searches for 'Asian' in Safari with content restrictions enabled,1,1
+win 11th straight game on a record-breaking night for Joe Ingles,1,1
+"לא אומר לא אף פעם - עם רשף שי | לשחרר את הדב, פרק 33",1,1
+"‘Attack on Titan’ Season 4, Episode 14 on Hulu Has Been Delayed",1,1
+‘Bliss’ Review: We Are Stuck with Owen Wilson and Salma Hayek Inside a Stupid Simulation,1,1
+‘Glee’ Stars Honor Naya Rivera on What Would’ve Been Her 34th Birthday,1,1
+‘Mandalorian’ Star Gina Carano Under Fire for Controversial Social Media Posts,1,1
+‘Miss Scarlet and the Duke’ Review: Mystery by Gaslight Makes for an Entertaining Combination,1,1
+"‘Powerpuff Girls’ Pilot at CW Casts Chloe Bennet, Dove Cameron, Yana Perrault",1,1
+‘Saturday Night Live’: Nick Jonas Gets Monologue Visit from Kevin Jonas,1,1
+‘Space Jam: A New Legacy’ Trailer: LeBron James Makes His Slam-Dunk Looney Tunes Debut,1,1
+‘Tandav’ review: A lackadaisical attempt at portraying India’s diverse polity,1,1
+‘The Little Things’ Super Bowl Weekend B.O. On Par With Liam Neeson Pics During Pandemic,1,1
+‘The Masked Dancer’ Reveals Identity of the Cricket: Here’s the Celebrity Under the Mask,1,1
+‘The Masked Singer’ spoilers: Who is Raccoon?,1,1
+‘The Office’ Actor Kat Ahn Calls Out Show’s Asian Jokes: ‘You’re Told to Shut Up and Be Grateful’,1,1
+"‘What Lies Below’ Ending: That Confusing Twist, Explained",1,1
+“Absolute Proof”: OAN prefaces MyPillow guy Mike Lindell’s doc with disclaimer,1,1
+🇨🇭 Patrick Juvet (70) passes away,1,1
